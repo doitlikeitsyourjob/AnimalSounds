@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>tiếng kêu thét lên</item>
+        <item>cằn nhằn</item>
+        <item>kêu vo vo</item>
+        <item>tweet tweet</item>
+        <item>khịt mũi</item>
+        <item>munch munch</item>
+        <item>tiếng càu nhàu</item>
+        <item>meow</item>
+        <item>munch</item>
+        <item>peep peep</item>
+        <item>túc túc túc túc</item>
+        <item>tiếng bò rống</item>
+        <item>lung lay lung lay</item>
+        <item>Kaw Kaw</item>
+        <item>tiếng kêu của dê</item>
+        <item>kêu la</item>
+        <item>woof woof</item>
+        <item>bấm bấm</item>
+        <item>hee haw</item>
+        <item>quack quack</item>
+        <item>kèn</item>
+        <item>kêu vo vo</item>
+        <item>trò chuyện</item>
+        <item>tiếng kêu của ếch</item>
+        <item>tiếng kêu của dê</item>
+        <item>tiếng kêu của dê</item>
+        <item>kêu chít chít</item>
+        <item>khịt mũi</item>
+        <item>tiếng kêu</item>
+        <item>tiếng ngựa hí</item>
+        <item>cười thầm</item>
+        <item>kêu la</item>
+        <item>ooh-ah-ah</item>
+        <item>kêu vo vo</item>
+        <item>squeak squeak</item>
+        <item>hoot hoot</item>
+        <item>cuộc đàm phán</item>
+        <item>tiếng kèn</item>
+        <item>khịt mũi</item>
+        <item>koo</item>
+        <item>kêu ẳng ẳng</item>
+        <item>kêu chít chít</item>
+        <item>tiếng la hét</item>
+        <item>gà một doo doodle</item>
+        <item>squawk</item>
+        <item>cuộc gọi</item>
+        <item>trừu kêu</item>
+        <item>tiếng xì xì</item>
+        <item>ăn tạp</item>
+        <item>tiếng rên rỉ</item>
+        <item>hát</item>
+        <item>tiếng la hét</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>gậy</item>
+        <item>gấu</item>
+        <item>con ong</item>
+        <item>chim</item>
+        <item>bò đực</item>
+        <item>con thỏ</item>
+        <item>lạc đà</item>
+        <item>con mèo</item>
+        <item>sâu bướm</item>
+        <item>gà con</item>
+        <item>gà</item>
+        <item>bò</item>
+        <item>con dế</item>
+        <item>con quạ</item>
+        <item>nai</item>
+        <item>Dinosaur</item>
+        <item>chó</item>
+        <item>cá heo</item>
+        <item>con lừa</item>
+        <item>vịt</item>
+        <item>voi</item>
+        <item>bay</item>
+        <item>cáo</item>
+        <item>con ếch</item>
+        <item>hươu cao cổ</item>
+        <item>con dê</item>
+        <item>chuột bạch</item>
+        <item>Hippo</item>
+        <item>chim rẽ quạt</item>
+        <item>ngựa</item>
+        <item>giống chó sói</item>
+        <item>sư tử</item>
+        <item>con khỉ</item>
+        <item>muỗi</item>
+        <item>chuột</item>
+        <item>chim cú</item>
+        <item>con két</item>
+        <item>loại chim biển</item>
+        <item>lợn</item>
+        <item>chim bồ câu</item>
+        <item>chó con</item>
+        <item>con chuột</item>
+        <item>Rhino</item>
+        <item>gà trống</item>
+        <item>chim biển</item>
+        <item>niêm phong</item>
+        <item>con cừu</item>
+        <item>rắn</item>
+        <item>gà tây</item>
+        <item>con hải mã</item>
+        <item>Whale</item>
+        <item>chó sói</item>
+    </string-array>
+
+</resources>
+

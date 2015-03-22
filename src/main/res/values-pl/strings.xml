@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Animal Sounds</string>
+    <string name="textview_home_hint">powitanie</string>
+    <string name="textview_home">Zapraszamy do zwierząt Noises</string>
+    <string name="home_pic">odgłosy zwierząt</string>
+    <string name="button_play">grać</string>
+    <string name="actionExit">Wyjście</string>
+    <string name="action_previous">poprzedni</string>
+    <string name="action_next">następny</string>
+
+    <string name="title_template_step">Jaki hałas jest  </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">powitanie</string>
+    <string name="title_screen_slide">Animal Sounds</string>
+    <string name="tapinfo">(stuknij, aby odtwarzać dźwięk)</string>
+    <string name="make"> zrobić?</string>
+</resources>

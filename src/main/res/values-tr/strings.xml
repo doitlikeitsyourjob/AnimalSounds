@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">hayvan Sesler</string>
+    <string name="textview_home_hint">karşılama</string>
+    <string name="textview_home">Hayvan Gürültü Hoşgeldiniz</string>
+    <string name="home_pic">hayvan sesleri</string>
+    <string name="button_play">oyun</string>
+    <string name="actionExit">çıkış</string>
+    <string name="action_previous">önceki</string>
+    <string name="action_next">sonraki</string>
+
+    <string name="title_template_step">Ne gürültü yapar  </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">karşılama</string>
+    <string name="title_screen_slide">hayvan Sesler</string>
+    <string name="tapinfo">(sesi çalmak için dokunun)</string>
+    <string name="make"> yapmak?</string>
+</resources>

@@ -1,0 +1,19 @@
+
+<resources>
+    <string name="app_name">Tunog hayop</string>
+    <string name="textview_home_hint">maligayang pagdating</string>
+    <string name="textview_home">Maligayang pagdating sa Noises Hayop</string>
+    <string name="home_pic">noises hayop</string>
+    <string name="button_play">maglaro</string>
+    <string name="actionExit">labasan</string>
+    <string name="action_previous">nakaraan</string>
+    <string name="action_next">susunod</string>
+
+    <string name="title_template_step">Ano ingay ang ginagawa ng </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">maligayang pagdating</string>
+    <string name="title_screen_slide">Tunog hayop</string>
+    <string name="tapinfo">(i-tap upang i-play ng tunog)</string>
+    <string name="make"> gumawa?</string>
+</resources>

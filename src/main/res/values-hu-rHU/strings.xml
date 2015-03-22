@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Animal Sounds</string>
+    <string name="textview_home_hint">fogadtatás</string>
+    <string name="textview_home">Üdvözöljük Animal Zajok</string>
+    <string name="home_pic">állati hangokat</string>
+    <string name="button_play">játék</string>
+    <string name="actionExit">kijárat</string>
+    <string name="action_previous">előző</string>
+    <string name="action_next">következő</string>
+
+    <string name="title_template_step">Milyen zajt csinál a </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">fogadtatás</string>
+    <string name="title_screen_slide">Animal Sounds</string>
+    <string name="tapinfo">(érintse hangot lejátszani)</string>
+    <string name="make"> hogy?</string>
+</resources>

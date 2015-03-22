@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>skrig</item>
+        <item>brumme</item>
+        <item>buzz</item>
+        <item>Tweet</item>
+        <item>fnys</item>
+        <item>munch munch</item>
+        <item>grynt</item>
+        <item>meow</item>
+        <item>munch</item>
+        <item>peep peep</item>
+        <item>klukke klukke</item>
+        <item>moo</item>
+        <item>knirke knirke</item>
+        <item>CAW</item>
+        <item>bræge</item>
+        <item>brøl</item>
+        <item>islæt</item>
+        <item>klik klik</item>
+        <item>hee haw</item>
+        <item>kvaksalver kvaksalver</item>
+        <item>trompet</item>
+        <item>buzz</item>
+        <item>chatte</item>
+        <item>kvækker</item>
+        <item>bræge</item>
+        <item>bræge</item>
+        <item>knirke</item>
+        <item>fnys</item>
+        <item>Whoop</item>
+        <item>vrinske</item>
+        <item>klukle</item>
+        <item>brøl</item>
+        <item>ooh-ah-ah</item>
+        <item>hum</item>
+        <item>knirke knirke</item>
+        <item>hoot hoot</item>
+        <item>samtaler</item>
+        <item>Bray</item>
+        <item>fnys</item>
+        <item>COO</item>
+        <item>vræl</item>
+        <item>knirke</item>
+        <item>Bellow</item>
+        <item>pik-a-doodle</item>
+        <item>squawk</item>
+        <item>opkald</item>
+        <item>Baa</item>
+        <item>hvæse</item>
+        <item>pludre</item>
+        <item>klynk</item>
+        <item>synge</item>
+        <item>hyle</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>bat</item>
+        <item>bære</item>
+        <item>bi</item>
+        <item>fugl</item>
+        <item>tyr</item>
+        <item>Bunny</item>
+        <item>kamel</item>
+        <item>kat</item>
+        <item>Caterpillar</item>
+        <item>chick</item>
+        <item>kylling</item>
+        <item>ko</item>
+        <item>cricket</item>
+        <item>krage</item>
+        <item>hjorte</item>
+        <item>dinosaur</item>
+        <item>hund</item>
+        <item>delfin</item>
+        <item>æsel</item>
+        <item>and</item>
+        <item>elefant</item>
+        <item>flyve</item>
+        <item>ræv</item>
+        <item>frog</item>
+        <item>giraf</item>
+        <item>ged</item>
+        <item>marsvin</item>
+        <item>hippo</item>
+        <item>Hærfugl</item>
+        <item>hest</item>
+        <item>hyæne</item>
+        <item>løve</item>
+        <item>abe</item>
+        <item>myg</item>
+        <item>mus</item>
+        <item>ugle</item>
+        <item>papegøje</item>
+        <item>pingvin</item>
+        <item>gris</item>
+        <item>due</item>
+        <item>hvalp</item>
+        <item>rotte</item>
+        <item>rhino</item>
+        <item>hane</item>
+        <item>måge</item>
+        <item>sæl</item>
+        <item>får</item>
+        <item>slange</item>
+        <item>kalkun</item>
+        <item>hvalros</item>
+        <item>hval</item>
+        <item>ulv</item>
+    </string-array>
+
+</resources>
+

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">برای تلفن های موبایل حیوانات</string>
+    <string name="textview_home_hint">خوش آمد</string>
+    <string name="textview_home">از سر و صدا از حیوانات خوش آمدید</string>
+    <string name="home_pic">صداهای حیوانات</string>
+    <string name="button_play">بازی</string>
+    <string name="actionExit">خروج</string>
+    <string name="action_previous">قبلی</string>
+    <string name="action_next">بعد</string>
+
+    <string name="title_template_step">چه سر و صدا می کند </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">خوش آمد</string>
+    <string name="title_screen_slide">برای تلفن های موبایل حیوانات</string>
+    <string name="tapinfo">(شیر را به بازی صدا)</string>
+    <string name="make"> را؟</string>
+</resources>

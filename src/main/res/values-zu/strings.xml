@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Animal Sounds</string>
+    <string name="textview_home_hint">welcome</string>
+    <string name="textview_home">Siyakwamukela Animal Noises</string>
+    <string name="home_pic">animal imisindo</string>
+    <string name="button_play">Play</string>
+    <string name="actionExit">Phuma</string>
+    <string name="action_previous">Previous</string>
+    <string name="action_next">olandelayo</string>
+
+    <string name="title_template_step">Yini nomsindo owenza </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">Welcome</string>
+    <string name="title_screen_slide">Animal Sounds</string>
+    <string name="tapinfo">(tap ukudlala umsindo)</string>
+    <string name="make"> ukwenza?</string>
+</resources>

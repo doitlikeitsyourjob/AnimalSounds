@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>визг</item>
+        <item>рычание</item>
+        <item>гул</item>
+        <item>Tweet Tweet</item>
+        <item>фырканье</item>
+        <item>жевать жевать</item>
+        <item>хрюкать</item>
+        <item>мяу</item>
+        <item>грызть грызть</item>
+        <item>писк писк</item>
+        <item>кликаем кликаем</item>
+        <item>мычание</item>
+        <item>скрип скрип</item>
+        <item>Кау Кау</item>
+        <item>блеять</item>
+        <item>рев</item>
+        <item>гав гав</item>
+        <item>нажмите кнопку</item>
+        <item>хи боярышника</item>
+        <item>кря кря</item>
+        <item>труба</item>
+        <item>гул</item>
+        <item>чат</item>
+        <item>карканье</item>
+        <item>блеять</item>
+        <item>блеять</item>
+        <item>писк</item>
+        <item>фырканье</item>
+        <item>возглас</item>
+        <item>ржать</item>
+        <item>хихиканье</item>
+        <item>рев</item>
+        <item>ох-ах-ах</item>
+        <item>гул</item>
+        <item>писк писк</item>
+        <item>крик крик</item>
+        <item>переговоры</item>
+        <item>кричать</item>
+        <item>фырканье</item>
+        <item>ку</item>
+        <item>визг</item>
+        <item>писк</item>
+        <item>рев</item>
+        <item>взведите каракули ду</item>
+        <item>пронзительный крик</item>
+        <item>вызов</item>
+        <item>блеять</item>
+        <item>шипение</item>
+        <item>пожирать</item>
+        <item>стон</item>
+        <item>петь</item>
+        <item>вой</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>летучая мышь</item>
+        <item>Медведь</item>
+        <item>пчела</item>
+        <item>птица</item>
+        <item>бык</item>
+        <item>кролик</item>
+        <item>верблюд</item>
+        <item>кот</item>
+        <item>гусеница</item>
+        <item>цыпленок</item>
+        <item>курица</item>
+        <item>корова</item>
+        <item>крикет</item>
+        <item>ворона</item>
+        <item>олень</item>
+        <item>динозавр</item>
+        <item>собака</item>
+        <item>дельфин</item>
+        <item>осел</item>
+        <item>утка</item>
+        <item>слон</item>
+        <item>летать</item>
+        <item>лиса</item>
+        <item>лягушка</item>
+        <item>жираф</item>
+        <item>козел</item>
+        <item>морская свинка</item>
+        <item>гиппопотам</item>
+        <item>удод</item>
+        <item>лошадь</item>
+        <item>гиена</item>
+        <item>лев</item>
+        <item>обезьяна</item>
+        <item>комар</item>
+        <item>мышь</item>
+        <item>сова</item>
+        <item>попугай</item>
+        <item>пингвин</item>
+        <item>свинья</item>
+        <item>голубь</item>
+        <item>щенок</item>
+        <item>крыса</item>
+        <item>носорог</item>
+        <item>петух</item>
+        <item>чайка</item>
+        <item>печать</item>
+        <item>овец</item>
+        <item>змея</item>
+        <item>Турция</item>
+        <item>морж</item>
+        <item>Кит</item>
+        <item>волк</item>
+    </string-array>
+
+</resources>

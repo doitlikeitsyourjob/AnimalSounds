@@ -1,0 +1,20 @@
+
+
+<resources>
+    <string name="app_name">أصوات الحيوانات</string>
+    <string name="textview_home_hint">ترحيب</string>
+    <string name="textview_home">مرحبا بكم في ضوضاء الحيوانية</string>
+    <string name="home_pic">أصوات الحيوانات</string>
+    <string name="button_play">لعب</string>
+    <string name="actionExit">خروج</string>
+    <string name="action_previous">سابق</string>
+    <string name="action_next">التالي</string>
+
+    <string name="title_template_step">ما الضوضاء يفعل </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">ترحيب</string>
+    <string name="title_screen_slide">أصوات الحيوانات</string>
+    <string name="tapinfo">(وات للعب الصوت)</string>
+    <string name="make"> جعل؟</string>
+</resources>

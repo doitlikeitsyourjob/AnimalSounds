@@ -1,0 +1,20 @@
+
+
+<resources>
+    <string name="app_name">Zvířecí zvuky</string>
+    <string name="textview_home_hint">vítejte</string>
+    <string name="textview_home">Vítejte na zvířecí zvuky</string>
+    <string name="home_pic">zvuky zvířat</string>
+    <string name="button_play">hrát</string>
+    <string name="actionExit">východ</string>
+    <string name="action_previous">předchozí</string>
+    <string name="action_next">další</string>
+
+    <string name="title_template_step">Co dělá hluk </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">vítejte</string>
+    <string name="title_screen_slide">Zvířecí zvuky</string>
+    <string name="tapinfo">(klikněte pro přehrávání zvuku)</string>
+    <string name="make"> dělat?</string>
+</resources>

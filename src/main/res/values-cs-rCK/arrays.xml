@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>pištět</item>
+        <item>zavrčení</item>
+        <item>šum</item>
+        <item>Tweet</item>
+        <item>šňupat</item>
+        <item>Munch Munch</item>
+        <item>chrochtat</item>
+        <item>mňoukat</item>
+        <item>Munch</item>
+        <item>peep peep</item>
+        <item>kdákat kdákat</item>
+        <item>bučení</item>
+        <item>vrzání vrzání</item>
+        <item>krákání</item>
+        <item>mečet</item>
+        <item>řev</item>
+        <item>tkanina</item>
+        <item>klepněte na tlačítko</item>
+        <item>hee haw</item>
+        <item>šarlatán šarlatán</item>
+        <item>trubka</item>
+        <item>šum</item>
+        <item>povídání</item>
+        <item>kvákat</item>
+        <item>mečet</item>
+        <item>mečet</item>
+        <item>pískot</item>
+        <item>šňupat</item>
+        <item>křičet</item>
+        <item>řehtat</item>
+        <item>chichot</item>
+        <item>řev</item>
+        <item>ooh-ah-ah</item>
+        <item>hukot</item>
+        <item>Squeak Squeak</item>
+        <item>houkání houkání</item>
+        <item>rozhovory</item>
+        <item>hýkání</item>
+        <item>šňupat</item>
+        <item>vrkat</item>
+        <item>ňafnutí</item>
+        <item>pískot</item>
+        <item>řvát</item>
+        <item>cock-a-doodle</item>
+        <item>krákat</item>
+        <item>volání</item>
+        <item>bekot</item>
+        <item>syčení</item>
+        <item>pohltit</item>
+        <item>sténání</item>
+        <item>zpívat</item>
+        <item>vytí</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>netopýr</item>
+        <item>medvěd</item>
+        <item>včela</item>
+        <item>pták</item>
+        <item>býk</item>
+        <item>králíček</item>
+        <item>velbloud</item>
+        <item>kočka</item>
+        <item>housenka</item>
+        <item>kuřátko</item>
+        <item>kuře</item>
+        <item>kráva</item>
+        <item>kriket</item>
+        <item>vrána</item>
+        <item>jelen</item>
+        <item>dinosaurus</item>
+        <item>pes</item>
+        <item>delfín</item>
+        <item>osel</item>
+        <item>kachna</item>
+        <item>slon</item>
+        <item>létat</item>
+        <item>liška</item>
+        <item>žába</item>
+        <item>žirafa</item>
+        <item>koza</item>
+        <item>morče</item>
+        <item>hroch</item>
+        <item>dudek</item>
+        <item>kůň</item>
+        <item>hyena</item>
+        <item>lev</item>
+        <item>opice</item>
+        <item>komár</item>
+        <item>myš</item>
+        <item>sova</item>
+        <item>papoušek</item>
+        <item>tučňák</item>
+        <item>prase</item>
+        <item>holub</item>
+        <item>štěně</item>
+        <item>krysa</item>
+        <item>rhino</item>
+        <item>kohout</item>
+        <item>racek</item>
+        <item>těsnění</item>
+        <item>ovce</item>
+        <item>had</item>
+        <item>Turecko</item>
+        <item>mrož</item>
+        <item>velryba</item>
+        <item>vlk</item>
+    </string-array>
+
+</resources>
+

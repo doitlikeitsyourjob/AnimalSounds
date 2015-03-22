@@ -1,0 +1,19 @@
+
+<resources>
+    <string name="app_name">เสียงสัตว์</string>
+    <string name="textview_home_hint">ยินดีต้อนรับ</string>
+    <string name="textview_home">ขอต้อนรับสู่เสียงสัตว์</string>
+    <string name="home_pic">เสียงสัตว์</string>
+    <string name="button_play">เล่น</string>
+    <string name="actionExit">ทางออก</string>
+    <string name="action_previous">ก่อน</string>
+    <string name="action_next">ต่อไป</string>
+
+    <string name="title_template_step">สิ่งที่เสียงไม่ </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">ยินดีต้อนรับ</string>
+    <string name="title_screen_slide">เสียงสัตว์</string>
+    <string name="tapinfo">(แตะที่จะเล่นเสียง)</string>
+    <string name="make"> ให้?</string>
+</resources>

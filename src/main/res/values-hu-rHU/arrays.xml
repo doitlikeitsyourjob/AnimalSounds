@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>sikoltás</item>
+        <item>morgás</item>
+        <item>zümmögés</item>
+        <item>csipog</item>
+        <item>horkant</item>
+        <item>Munch Munch</item>
+        <item>röfögés</item>
+        <item>miau</item>
+        <item>Munch</item>
+        <item>peep peep</item>
+        <item>kotkodácsol kotkodácsol</item>
+        <item>bőg</item>
+        <item>nyikorog nyikorog</item>
+        <item>károgás</item>
+        <item>béget</item>
+        <item>ordít</item>
+        <item>szövet</item>
+        <item>kattintson Kattintson</item>
+        <item>hee Haw</item>
+        <item>háp háp</item>
+        <item>trombita</item>
+        <item>zümmögés</item>
+        <item>csevegés</item>
+        <item>kuruttyolás</item>
+        <item>béget</item>
+        <item>béget</item>
+        <item>vinnyog</item>
+        <item>horkant</item>
+        <item>ujjong</item>
+        <item>nyerít</item>
+        <item>kuncogás</item>
+        <item>ordít</item>
+        <item>ó-ah-ah</item>
+        <item>zümmögés</item>
+        <item>vinnyog vinnyog</item>
+        <item>huhogás huhogás</item>
+        <item>beszél</item>
+        <item>szamárbőgés</item>
+        <item>horkant</item>
+        <item>turbékol</item>
+        <item>ugat</item>
+        <item>vinnyog</item>
+        <item>ordít</item>
+        <item>cock-a-doodle</item>
+        <item>panaszkodás</item>
+        <item>hívás</item>
+        <item>béget</item>
+        <item>sziszegés</item>
+        <item>zabál</item>
+        <item>nyögés</item>
+        <item>énekel</item>
+        <item>üvöltés</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>denevér</item>
+        <item>medve</item>
+        <item>méh</item>
+        <item>madár</item>
+        <item>bika</item>
+        <item>nyuszi</item>
+        <item>teve</item>
+        <item>macska</item>
+        <item>hernyó</item>
+        <item>csaj</item>
+        <item>csirke</item>
+        <item>tehén</item>
+        <item>krikett</item>
+        <item>varjú</item>
+        <item>szarvas</item>
+        <item>dinoszaurusz</item>
+        <item>kutya</item>
+        <item>delfin</item>
+        <item>szamár</item>
+        <item>kacsa</item>
+        <item>elefánt</item>
+        <item>repül</item>
+        <item>róka</item>
+        <item>béka</item>
+        <item>zsiráf</item>
+        <item>kecske</item>
+        <item>tengeri malac</item>
+        <item>víziló</item>
+        <item>búbos banka</item>
+        <item>ló</item>
+        <item>hiéna</item>
+        <item>oroszlán</item>
+        <item>majom</item>
+        <item>szúnyog</item>
+        <item>egér</item>
+        <item>bagoly</item>
+        <item>papagáj</item>
+        <item>pingvin</item>
+        <item>disznó</item>
+        <item>galamb</item>
+        <item>kölyökkutya</item>
+        <item>patkány</item>
+        <item>orrszarvú</item>
+        <item>kakas</item>
+        <item>sirály</item>
+        <item>pecsét</item>
+        <item>juh</item>
+        <item>kígyó</item>
+        <item>Törökország</item>
+        <item>rozmár</item>
+        <item>bálna</item>
+        <item>farkas</item>
+    </string-array>
+
+</resources>
+
+

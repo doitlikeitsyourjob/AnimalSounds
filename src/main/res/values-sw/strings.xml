@@ -1,0 +1,19 @@
+
+<resources>
+    <string name="app_name">wanyama Sauti</string>
+    <string name="textview_home_hint">kuwakaribisha</string>
+    <string name="textview_home">Karibu wanyama Noises</string>
+    <string name="home_pic">noises mnyama</string>
+    <string name="button_play">kucheza</string>
+    <string name="actionExit">Toka</string>
+    <string name="action_previous">uliopita</string>
+    <string name="action_next">Next</string>
+
+    <string name="title_template_step">Nini kelele gani </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob Ltd</string>
+    <string name="action_bar_title">Karibu</string>
+    <string name="title_screen_slide">wanyama Sauti</string>
+    <string name="tapinfo">(bomba kucheza sauti)</string>
+    <string name="make"> kufanya?</string>
+</resources>

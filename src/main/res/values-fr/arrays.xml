@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>crissement</item>
+        <item>grognement</item>
+        <item>bourdonnement</item>
+        <item>Tweet Tweet</item>
+        <item>grognement</item>
+        <item>Munch Munch</item>
+        <item>grognement</item>
+        <item>miaou</item>
+        <item>Chomp Chomp</item>
+        <item>peep peep</item>
+        <item>cot cot</item>
+        <item>meuglement</item>
+        <item>craquement craquer</item>
+        <item>kaw kaw</item>
+        <item>bêler</item>
+        <item>grondement</item>
+        <item>woof woof</item>
+        <item>click click</item>
+        <item>hee haw</item>
+        <item>coin coin</item>
+        <item>trompette</item>
+        <item>bourdonnement</item>
+        <item>bavarder</item>
+        <item>coassement</item>
+        <item>bêler</item>
+        <item>bêler</item>
+        <item>grincement</item>
+        <item>grognement</item>
+        <item>cri</item>
+        <item>hennissement</item>
+        <item>gloussement</item>
+        <item>grondement</item>
+        <item>ooh-ah-ah</item>
+        <item>bourdonnement</item>
+        <item>squeak squeak</item>
+        <item>huée de huée</item>
+        <item>négociations</item>
+        <item>braire</item>
+        <item>grognement</item>
+        <item>coo coo</item>
+        <item>glapir</item>
+        <item>grincement</item>
+        <item>mugissement</item>
+        <item>cock-a-doodle-doo</item>
+        <item>cri</item>
+        <item>appel</item>
+        <item>baa baa</item>
+        <item>sifflement</item>
+        <item>engouffrer</item>
+        <item>gémissement</item>
+        <item>chanter</item>
+        <item>hurlement</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>chauve-souris</item>
+        <item>ours</item>
+        <item>abeille</item>
+        <item>oiseau</item>
+        <item>taureau</item>
+        <item>Lapin</item>
+        <item>chameau</item>
+        <item>chat</item>
+        <item>chenille</item>
+        <item>poussin</item>
+        <item>poulet</item>
+        <item>vache</item>
+        <item>cricket</item>
+        <item>corneille</item>
+        <item>cerf</item>
+        <item>dinosaure</item>
+        <item>chien</item>
+        <item>dauphin</item>
+        <item>baudet</item>
+        <item>canard</item>
+        <item>éléphant</item>
+        <item>voler</item>
+        <item>renard</item>
+        <item>grenouille</item>
+        <item>girafe</item>
+        <item>chèvre</item>
+        <item>Guinée porc</item>
+        <item>hippopotame</item>
+        <item>huppe</item>
+        <item>cheval</item>
+        <item>hyène</item>
+        <item>Lion</item>
+        <item>singe</item>
+        <item>moustique</item>
+        <item>souris</item>
+        <item>hibou</item>
+        <item>perroquet</item>
+        <item>manchot</item>
+        <item>cochon</item>
+        <item>pigeon</item>
+        <item>chiot</item>
+        <item>rat</item>
+        <item>rhinocéros</item>
+        <item>coq</item>
+        <item>mouette</item>
+        <item>sceau</item>
+        <item>mouton</item>
+        <item>serpent</item>
+        <item>dinde</item>
+        <item>morse</item>
+        <item>baleine</item>
+        <item>loup</item>
+    </string-array>
+
+</resources>
+

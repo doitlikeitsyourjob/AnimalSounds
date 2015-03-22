@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>screech</item>
+        <item>growl</item>
+        <item>buzz</item>
+        <item>tweet</item>
+        <item>koroma</item>
+        <item>kutafuna kutafuna</item>
+        <item>grunt</item>
+        <item>meow</item>
+        <item>kutafuna</item>
+        <item>peep peep</item>
+        <item>gogoreka gogoreka</item>
+        <item>moo</item>
+        <item>creak creak</item>
+        <item>caw</item>
+        <item>bleat</item>
+        <item>kishindo</item>
+        <item>lililosokotwa</item>
+        <item>click click</item>
+        <item>hee haw</item>
+        <item>matapeli matapeli</item>
+        <item>tarumbeta</item>
+        <item>buzz</item>
+        <item>kuzungumza</item>
+        <item>croak</item>
+        <item>bleat</item>
+        <item>bleat</item>
+        <item>squeak</item>
+        <item>koroma</item>
+        <item>whoop</item>
+        <item>mnalia</item>
+        <item>chuckle</item>
+        <item>kishindo</item>
+        <item>ooh-ah-ah</item>
+        <item>hum</item>
+        <item>squeak squeak</item>
+        <item>hoot hoot</item>
+        <item>mazungumzo</item>
+        <item>Bray</item>
+        <item>koroma</item>
+        <item>coo</item>
+        <item>Yelp</item>
+        <item>squeak</item>
+        <item>Bellow</item>
+        <item>jogoo-doodle</item>
+        <item>squawk</item>
+        <item>wito</item>
+        <item>baa</item>
+        <item>hiss</item>
+        <item>gobble</item>
+        <item>moan</item>
+        <item>kuimba</item>
+        <item>kuomboleza</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>bat</item>
+        <item>kubeba</item>
+        <item>nyuki</item>
+        <item>ndege</item>
+        <item>ng\'ombe</item>
+        <item>Bunny</item>
+        <item>ngamia</item>
+        <item>paka</item>
+        <item>caterpillar</item>
+        <item>kifaranga</item>
+        <item>kuku</item>
+        <item>ng\'ombe</item>
+        <item>kriketi</item>
+        <item>jogoo</item>
+        <item>kulungu</item>
+        <item>dinosaur</item>
+        <item>mbwa</item>
+        <item>dolphin</item>
+        <item>punda</item>
+        <item>bata</item>
+        <item>tembo</item>
+        <item>kuruka</item>
+        <item>fox</item>
+        <item>frog</item>
+        <item>twiga</item>
+        <item>mbuzi</item>
+        <item>guinea nguruwe</item>
+        <item>kiboko</item>
+        <item>Hudihudi</item>
+        <item>farasi</item>
+        <item>fisi</item>
+        <item>simba</item>
+        <item>tumbili</item>
+        <item>mbu</item>
+        <item>panya</item>
+        <item>owl</item>
+        <item>parrot</item>
+        <item>Penguin</item>
+        <item>nguruwe</item>
+        <item>mbaazi</item>
+        <item>puppy</item>
+        <item>panya</item>
+        <item>vifaru</item>
+        <item>jogoo</item>
+        <item>seagull</item>
+        <item>muhuri</item>
+        <item>kondoo</item>
+        <item>nyoka</item>
+        <item>Uturuki</item>
+        <item>walrus</item>
+        <item>nyangumi</item>
+        <item>wolf</item>
+    </string-array>
+
+</resources>
+

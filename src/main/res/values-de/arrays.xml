@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>Kreischen</item>
+        <item>Knurren</item>
+        <item>Summen</item>
+        <item>Tweet</item>
+        <item>Schnauben</item>
+        <item>munch munch</item>
+        <item>Grunzen</item>
+        <item>miau</item>
+        <item>chomp chomp</item>
+        <item>peep peep</item>
+        <item>gackern gackern</item>
+        <item>muhen</item>
+        <item>Knarren Knarren</item>
+        <item>kaw kaw</item>
+        <item>blöken</item>
+        <item>Gebrüll</item>
+        <item>woof Woof</item>
+        <item>klicken Sie auf</item>
+        <item>hee haw</item>
+        <item>Quaken-Quaken</item>
+        <item>Trompete</item>
+        <item>Summen</item>
+        <item>Unterhaltung</item>
+        <item>quaken</item>
+        <item>blöken</item>
+        <item>blöken</item>
+        <item>Quietschen</item>
+        <item>Schnauben</item>
+        <item>whoop</item>
+        <item>wiehern</item>
+        <item>Lachen</item>
+        <item>Gebrüll</item>
+        <item>ooh-ah-ah</item>
+        <item>Brummen</item>
+        <item>Quietschen Quietschen</item>
+        <item>Schreischrei</item>
+        <item>Gespräche</item>
+        <item>schreien</item>
+        <item>Schnauben</item>
+        <item>coo coo</item>
+        <item>Jaulen</item>
+        <item>Quietschen</item>
+        <item>brüllen</item>
+        <item>kikeriki</item>
+        <item>Kreischen</item>
+        <item>Anruf</item>
+        <item>blökenblöken</item>
+        <item>zischen</item>
+        <item>verschlingen</item>
+        <item>Stöhnen</item>
+        <item>singen</item>
+        <item>heulen</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>Schläger</item>
+        <item>Bär</item>
+        <item>Biene</item>
+        <item>Vogel</item>
+        <item>Stier</item>
+        <item>Hase</item>
+        <item>Kamel</item>
+        <item>Katze</item>
+        <item>Raupe</item>
+        <item>Küken</item>
+        <item>Huhn</item>
+        <item>Kuh</item>
+        <item>Kricket</item>
+        <item>Krähe</item>
+        <item>Hirsch</item>
+        <item>Dinosaurier</item>
+        <item>Hund</item>
+        <item>Delphin</item>
+        <item>Esel</item>
+        <item>Ente</item>
+        <item>Elefant</item>
+        <item>fliegen</item>
+        <item>Fuchs</item>
+        <item>Frosch</item>
+        <item>Giraffe</item>
+        <item>Ziege</item>
+        <item>Meerschweinchen</item>
+        <item>Nilpferd</item>
+        <item>Wiedehopf</item>
+        <item>Pferd</item>
+        <item>Hyäne</item>
+        <item>Löwe</item>
+        <item>Affe</item>
+        <item>Mücke</item>
+        <item>Maus</item>
+        <item>Eule</item>
+        <item>Papagei</item>
+        <item>Pinguin</item>
+        <item>Schwein</item>
+        <item>Taube</item>
+        <item>Hündchen</item>
+        <item>Ratte</item>
+        <item>Nashorn</item>
+        <item>Hahn</item>
+        <item>Möwe</item>
+        <item>Dichtung</item>
+        <item>Schaf</item>
+        <item>Schlange</item>
+        <item>Türkei</item>
+        <item>Walross</item>
+        <item>Wal</item>
+        <item>Wolf</item>
+    </string-array>
+
+</resources>
+
+

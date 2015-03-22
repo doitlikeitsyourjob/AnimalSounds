@@ -1,0 +1,20 @@
+
+
+<resources>
+    <string name="app_name">動物的叫聲</string>
+    <string name="textview_home_hint">歡迎</string>
+    <string name="textview_home">歡迎光臨動物的聲音</string>
+    <string name="home_pic">動物的聲音</string>
+    <string name="button_play">玩</string>
+    <string name="actionExit">出口</string>
+    <string name="action_previous">前</string>
+    <string name="action_next">下一個</string>
+
+    <string name="title_template_step">什麼噪音請問 </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">歡迎</string>
+    <string name="title_screen_slide">動物的叫聲</string>
+    <string name="tapinfo">（點擊播放聲音）</string>
+    <string name="make"> 做什麼呢？</string>
+</resources>

@@ -1,0 +1,19 @@
+﻿
+<resources>
+    <string name="app_name">Bunyi haiwan</string>
+    <string name="textview_home_hint">selamat datang</string>
+    <string name="textview_home">Selamat datang ke Bunyi Haiwan</string>
+    <string name="home_pic">bunyi haiwan</string>
+    <string name="button_play">main</string>
+    <string name="actionExit">keluar</string>
+    <string name="action_previous">Sebelumnya</string>
+    <string name="action_next">Seterusnya</string>
+
+    <string name="title_template_step">Apa bunyi melakukan </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">Selamat Datang</string>
+    <string name="title_screen_slide">Bunyi haiwan</string>
+    <string name="tapinfo">(ketuk untuk memainkan bunyi)</string>
+    <string name="make"> membuat?</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">アニマルサウンド</string>
+    <string name="textview_home_hint">歓迎</string>
+    <string name="textview_home">アニマル雑音へようこそ</string>
+    <string name="home_pic">動物のノイズ</string>
+    <string name="button_play">遊ぶ</string>
+    <string name="actionExit">出口</string>
+    <string name="action_previous">前</string>
+    <string name="action_next">次</string>
+
+    <string name="title_template_step">何の雑音がない </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">歓迎</string>
+    <string name="title_screen_slide">アニマルサウンド</string>
+    <string name="tapinfo">（サウンドを再生するタップ）</string>
+    <string name="make"> 作る？</string>
+</resources>

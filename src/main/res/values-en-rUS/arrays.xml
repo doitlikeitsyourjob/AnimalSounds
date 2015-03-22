@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>chillido</item>
+        <item>gruñido</item>
+        <item>zumbido</item>
+        <item>pío pío</item>
+        <item>bufido</item>
+        <item>Munch Munch</item>
+        <item>gruñido</item>
+        <item>maullar</item>
+        <item>chomp chomp</item>
+        <item>pío pío</item>
+        <item>clo clo</item>
+        <item>mu</item>
+        <item>crujido crujido</item>
+        <item>Kaw Kaw</item>
+        <item>balar</item>
+        <item>rugido</item>
+        <item>tejido del tejido</item>
+        <item>clic clic</item>
+        <item>haw ji</item>
+        <item>cuac cuac</item>
+        <item>trompeta</item>
+        <item>zumbido</item>
+        <item>charlar</item>
+        <item>croar</item>
+        <item>balar</item>
+        <item>balar</item>
+        <item>chirrido</item>
+        <item>bufido</item>
+        <item>alarido</item>
+        <item>relincho</item>
+        <item>risita</item>
+        <item>rugido</item>
+        <item>ooh-ah-ah</item>
+        <item>zumbido</item>
+        <item>chirrido chirrido</item>
+        <item>pitido del pitido</item>
+        <item>negociaciones</item>
+        <item>rebuzno</item>
+        <item>bufido</item>
+        <item>coo coo</item>
+        <item>gañido</item>
+        <item>chirrido</item>
+        <item>bramido</item>
+        <item>cock-a-doodle-doo</item>
+        <item>graznido</item>
+        <item>llamada</item>
+        <item>baa baa</item>
+        <item>silbido</item>
+        <item>engullir</item>
+        <item>gemido</item>
+        <item>cantar</item>
+        <item>aullido</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>bate</item>
+        <item>oso</item>
+        <item>abeja</item>
+        <item>pájaro</item>
+        <item>toro</item>
+        <item>conejito</item>
+        <item>camello</item>
+        <item>gato</item>
+        <item>oruga</item>
+        <item>polluelo</item>
+        <item>pollo</item>
+        <item>vaca</item>
+        <item>cricket</item>
+        <item>cuervo</item>
+        <item>ciervo</item>
+        <item>dinosaurio</item>
+        <item>perro</item>
+        <item>delfín</item>
+        <item>burro</item>
+        <item>pato</item>
+        <item>elefante</item>
+        <item>volar</item>
+        <item>zorro</item>
+        <item>rana</item>
+        <item>jirafa</item>
+        <item>cabra</item>
+        <item>conejillo de Indias</item>
+        <item>hipopótamo</item>
+        <item>abubilla</item>
+        <item>caballo</item>
+        <item>hiena</item>
+        <item>león</item>
+        <item>mono</item>
+        <item>mosquito</item>
+        <item>ratón</item>
+        <item>búho</item>
+        <item>loro</item>
+        <item>pingüino</item>
+        <item>cerdo</item>
+        <item>paloma</item>
+        <item>cachorro</item>
+        <item>rata</item>
+        <item>rinoceronte</item>
+        <item>gallo</item>
+        <item>gaviota</item>
+        <item>sello</item>
+        <item>oveja</item>
+        <item>serpiente</item>
+        <item>pavo</item>
+        <item>morsa</item>
+        <item>ballena</item>
+        <item>lobo</item>
+    </string-array>
+
+</resources>

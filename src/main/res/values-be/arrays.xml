@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>віск</item>
+        <item>рык</item>
+        <item>гул</item>
+        <item>цвіркалі</item>
+        <item>пырханне</item>
+        <item>Мунка Мунка</item>
+        <item>рохкаць</item>
+        <item>мяу</item>
+        <item>Мунка</item>
+        <item>Піп Піп</item>
+        <item>клікнуўшы клікнуўшы</item>
+        <item>мыканне</item>
+        <item>рыпанне рыпанне</item>
+        <item>крумкаць</item>
+        <item>бляяць</item>
+        <item>роў</item>
+        <item>гав</item>
+        <item>націсніце націсніце</item>
+        <item>хі хо</item>
+        <item>кря кря</item>
+        <item>труба</item>
+        <item>гул</item>
+        <item>чат</item>
+        <item>карканне</item>
+        <item>бляяць</item>
+        <item>бляяць</item>
+        <item>піск</item>
+        <item>пырханне</item>
+        <item>вокліч</item>
+        <item>іржаць</item>
+        <item>хіхіканне</item>
+        <item>роў</item>
+        <item>ох-ах-ах</item>
+        <item>гул</item>
+        <item>піск піск</item>
+        <item>крык крык</item>
+        <item>перамовы</item>
+        <item>крычаць</item>
+        <item>пырханне</item>
+        <item>буркаваць</item>
+        <item>віск</item>
+        <item>піск</item>
+        <item>роў</item>
+        <item>член - крамзолі</item>
+        <item>пранізлівы крык</item>
+        <item>выклік</item>
+        <item>бляяць</item>
+        <item>шыпенне</item>
+        <item>пажыраць</item>
+        <item>стогн</item>
+        <item>спяваць</item>
+        <item>выццё</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>Лятучая мыш</item>
+        <item>несці</item>
+        <item>пчала</item>
+        <item>птушка</item>
+        <item>бык</item>
+        <item>трусік</item>
+        <item>вярблюд</item>
+        <item>кот</item>
+        <item>вусень</item>
+        <item>кураня</item>
+        <item>курыца</item>
+        <item>карова</item>
+        <item>крыкет</item>
+        <item>варона</item>
+        <item>алень</item>
+        <item>дыназаўр</item>
+        <item>сабака</item>
+        <item>дэльфін</item>
+        <item>асёл</item>
+        <item>качка</item>
+        <item>слон</item>
+        <item>лётаць</item>
+        <item>ліса</item>
+        <item>жаба</item>
+        <item>жыраф</item>
+        <item>казёл</item>
+        <item>марская свінка</item>
+        <item>гіпапатам</item>
+        <item>удод</item>
+        <item>конь</item>
+        <item>гіена</item>
+        <item>леў</item>
+        <item>малпа</item>
+        <item>камар</item>
+        <item>мыш</item>
+        <item>сава</item>
+        <item>папугай</item>
+        <item>пінгвін</item>
+        <item>свіння</item>
+        <item>голуб</item>
+        <item>шчанюк</item>
+        <item>пацук</item>
+        <item>насарог</item>
+        <item>певень</item>
+        <item>чайка</item>
+        <item>друк</item>
+        <item>авечак</item>
+        <item>змея</item>
+        <item>індычка</item>
+        <item>морж</item>
+        <item>кіт</item>
+        <item>воўк</item>
+    </string-array>
+
+</resources>
+

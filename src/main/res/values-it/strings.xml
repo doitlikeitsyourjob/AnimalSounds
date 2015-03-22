@@ -1,0 +1,19 @@
+
+<resources>
+    <string name="app_name">Suoni di animali</string>
+    <string name="textview_home_hint">benvenuto</string>
+    <string name="textview_home">Benvenuti in versi degli animali</string>
+    <string name="home_pic">versi degli animali</string>
+    <string name="button_play">giocare</string>
+    <string name="actionExit">uscita</string>
+    <string name="action_previous">precedente</string>
+    <string name="action_next">prossimo</string>
+
+    <string name="title_template_step">Che rumore fa la  </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">benvenuto</string>
+    <string name="title_screen_slide">Suoni di animali</string>
+    <string name="tapinfo">(toccare per riprodurre l\'audio)</string>
+    <string name="make"> fa?</string>
+</resources>

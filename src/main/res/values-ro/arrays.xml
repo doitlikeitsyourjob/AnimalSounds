@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>țipăt</item>
+        <item>mârâi</item>
+        <item>bâzâit</item>
+        <item>tweet</item>
+        <item>sforăit</item>
+        <item>Munch Munch</item>
+        <item>mormăit</item>
+        <item>miau</item>
+        <item>Munch</item>
+        <item>bau bau</item>
+        <item>cotcodac cotcodac</item>
+        <item>muget</item>
+        <item>scârțâit scârțâit</item>
+        <item>câr</item>
+        <item>behăi</item>
+        <item>hohote</item>
+        <item>bătătură</item>
+        <item>click Click</item>
+        <item>haw hee</item>
+        <item>vraci vraci</item>
+        <item>trompetă</item>
+        <item>bâzâit</item>
+        <item>conversație</item>
+        <item>cârâit</item>
+        <item>behăi</item>
+        <item>behăi</item>
+        <item>chițăit</item>
+        <item>sforăit</item>
+        <item>tuși</item>
+        <item>nechezat</item>
+        <item>chicoteală</item>
+        <item>hohote</item>
+        <item>Ooh-ah-ah</item>
+        <item>zumzet</item>
+        <item>chițăit chițăit</item>
+        <item>huiduială huiduială</item>
+        <item>tratative</item>
+        <item>măcina</item>
+        <item>sforăit</item>
+        <item>gânguri</item>
+        <item>scheunat</item>
+        <item>chițăit</item>
+        <item>jos</item>
+        <item>cocoș-a-doodle</item>
+        <item>țipăt</item>
+        <item>apel</item>
+        <item>behehe</item>
+        <item>șuierat</item>
+        <item>înghiți</item>
+        <item>geamăt</item>
+        <item>cânta</item>
+        <item>urla</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>liliac</item>
+        <item>suporta</item>
+        <item>albină</item>
+        <item>pasăre</item>
+        <item>taur</item>
+        <item>bunny</item>
+        <item>cămilă</item>
+        <item>pisică</item>
+        <item>omidă</item>
+        <item>pui</item>
+        <item>pui</item>
+        <item>vacă</item>
+        <item>crichet</item>
+        <item>cioară</item>
+        <item>cerb</item>
+        <item>dinozaur</item>
+        <item>câine</item>
+        <item>delfin</item>
+        <item>măgar</item>
+        <item>rață</item>
+        <item>elefant</item>
+        <item>zbura</item>
+        <item>vulpe</item>
+        <item>broască</item>
+        <item>girafă</item>
+        <item>capră</item>
+        <item>cobai</item>
+        <item>hipopotam</item>
+        <item>pupăză</item>
+        <item>cal</item>
+        <item>hienă</item>
+        <item>leu</item>
+        <item>maimuță</item>
+        <item>țânțar</item>
+        <item>mouse</item>
+        <item>bufniță</item>
+        <item>papagal</item>
+        <item>pinguin</item>
+        <item>porc</item>
+        <item>porumbel</item>
+        <item>cățeluș</item>
+        <item>șobolan</item>
+        <item>rinocer</item>
+        <item>cocoș</item>
+        <item>pescăruș de mare</item>
+        <item>sigiliu</item>
+        <item>oaie</item>
+        <item>șarpe</item>
+        <item>curcan</item>
+        <item>morsă</item>
+        <item>balenă</item>
+        <item>lup</item>
+    </string-array>
+
+</resources>

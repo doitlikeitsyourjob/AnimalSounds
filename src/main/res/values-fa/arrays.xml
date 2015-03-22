@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>جیغ کشیدن</item>
+        <item>غرغر کردن</item>
+        <item>وزوز</item>
+        <item>صدای جیر جیر صدای جیر جیر</item>
+        <item>خرناس کشیدن</item>
+        <item>مونک مونک</item>
+        <item>خر خر کردن</item>
+        <item>صدای گربه</item>
+        <item>چامپ چامپ</item>
+        <item>جوانه زدن جوانه زدن</item>
+        <item>قدقد قدقد کردن</item>
+        <item>صدای گاو</item>
+        <item>شکوه و شکایت کردن شکوه و شکایت کردن</item>
+        <item>گاو گاو</item>
+        <item>بع بع کردن</item>
+        <item>سر و صدا</item>
+        <item>پود پود</item>
+        <item>کلیک کنید کلیک کنید</item>
+        <item>من من کردن هی</item>
+        <item>زلزله زلزله</item>
+        <item>شیپور</item>
+        <item>وزوز</item>
+        <item>گپ زدن</item>
+        <item>صدای کلاغ</item>
+        <item>بع بع کردن</item>
+        <item>بع بع کردن</item>
+        <item>جیر جیر</item>
+        <item>خرناس کشیدن</item>
+        <item>فریاد</item>
+        <item>شیهه اسب</item>
+        <item>خندیدن</item>
+        <item>سر و صدا</item>
+        <item>آه، آه، آه</item>
+        <item>زمزمه کردن</item>
+        <item>جیر جیر جیر جیر</item>
+        <item>بوق زدن بوق زدن</item>
+        <item>مذاکرات</item>
+        <item>عرعر</item>
+        <item>خرناس کشیدن</item>
+        <item>اهسته بازمزمه ادا کردن اهسته بازمزمه ادا کردن</item>
+        <item>جیغ زدن</item>
+        <item>جیر جیر</item>
+        <item>صدای غرش کردن</item>
+        <item>خروس یک ابله-دوو</item>
+        <item>اعتراض کردن</item>
+        <item>دعوت</item>
+        <item>بع بع بع بع</item>
+        <item>صدای خش خش</item>
+        <item>قورت دادن</item>
+        <item>زاری</item>
+        <item>خواندن</item>
+        <item>فریاد زدن</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>خفاش</item>
+        <item>خرس</item>
+        <item>زنبور</item>
+        <item>پرنده</item>
+        <item>گاو نر</item>
+        <item>اسم حیوان دست اموز</item>
+        <item>شتر</item>
+        <item>گربه</item>
+        <item>خون اشام</item>
+        <item>جوجه</item>
+        <item>جوجه</item>
+        <item>گاو</item>
+        <item>جیرجیرک</item>
+        <item>کلاغ</item>
+        <item>گوزن</item>
+        <item>دایناسور</item>
+        <item>سگ</item>
+        <item>گراز دریایی</item>
+        <item>خر</item>
+        <item>اردک</item>
+        <item>فیل</item>
+        <item>پرواز</item>
+        <item>روباه</item>
+        <item>قورباغه</item>
+        <item>زرافه</item>
+        <item>بز</item>
+        <item>خوکچه هندی</item>
+        <item>کرگدن</item>
+        <item>هدهد</item>
+        <item>اسب</item>
+        <item>کفتار</item>
+        <item>شیر</item>
+        <item>میمون</item>
+        <item>پشه</item>
+        <item>ماوس</item>
+        <item>جغد</item>
+        <item>طوطی</item>
+        <item>پنگوین</item>
+        <item>خوک</item>
+        <item>کبوتر</item>
+        <item>توله سگ</item>
+        <item>موش</item>
+        <item>کرگدن</item>
+        <item>خروس</item>
+        <item>مرغ دریایی</item>
+        <item>مهر</item>
+        <item>گوسفند</item>
+        <item>مار</item>
+        <item>ترکیه</item>
+        <item>شیر ماهی</item>
+        <item>نهنگ</item>
+        <item>گرگ</item>
+    </string-array>
+
+</resources>

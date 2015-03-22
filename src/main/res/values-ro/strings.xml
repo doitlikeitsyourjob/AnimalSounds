@@ -1,0 +1,19 @@
+﻿
+<resources>
+    <string name="app_name">sunete de animale</string>
+    <string name="textview_home_hint">bun venit</string>
+    <string name="textview_home">Bine ati venit la zgomote animale</string>
+    <string name="home_pic">zgomote de animale</string>
+    <string name="button_play">joacă</string>
+    <string name="actionExit">Ieșire</string>
+    <string name="action_previous">precedent</string>
+    <string name="action_next">următorul</string>
+
+    <string name="title_template_step">Ce zgomot face </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">bun venit</string>
+    <string name="title_screen_slide">sunete de animale</string>
+    <string name="tapinfo">(apăsați pentru a reda sunetul)</string>
+    <string name="make"> face?</string>
+</resources>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>stridio</item>
+        <item>ringhiare</item>
+        <item>ronzio</item>
+        <item>Tweet Tweet</item>
+        <item>sbuffo</item>
+        <item>munch munch</item>
+        <item>grugnito</item>
+        <item>miao</item>
+        <item>chomp chomp</item>
+        <item>peep peep</item>
+        <item>coccodè coccodè</item>
+        <item>muggito</item>
+        <item>cigolio scricchiolio</item>
+        <item>kaw kaw</item>
+        <item>belare</item>
+        <item>ruggito</item>
+        <item>woof woof</item>
+        <item>clicca clicca</item>
+        <item>hee haw</item>
+        <item>quack quack</item>
+        <item>tromba</item>
+        <item>ronzio</item>
+        <item>chiacchierare</item>
+        <item>gracchiare</item>
+        <item>belare</item>
+        <item>belare</item>
+        <item>squittio</item>
+        <item>sbuffo</item>
+        <item>grido</item>
+        <item>nitrito</item>
+        <item>ridacchiare</item>
+        <item>ruggito</item>
+        <item>ooh-ah-ah</item>
+        <item>ronzio</item>
+        <item>squittio squittire</item>
+        <item>hoot hoot</item>
+        <item>trattativa</item>
+        <item>raglio</item>
+        <item>sbuffo</item>
+        <item>coo coo</item>
+        <item>guaito</item>
+        <item>squittio</item>
+        <item>urlo</item>
+        <item>cock-a-doodle-doo</item>
+        <item>strillare</item>
+        <item>chiamata</item>
+        <item>baa baa</item>
+        <item>sibilo</item>
+        <item>trangugiare</item>
+        <item>lamento</item>
+        <item>cantare</item>
+        <item>urlo</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>pipistrello</item>
+        <item>orso</item>
+        <item>ape</item>
+        <item>uccello</item>
+        <item>toro</item>
+        <item>coniglietto</item>
+        <item>cammello</item>
+        <item>gatto</item>
+        <item>bruco</item>
+        <item>pulcino</item>
+        <item>pollo</item>
+        <item>mucca</item>
+        <item>grillo</item>
+        <item>corvo</item>
+        <item>cervo</item>
+        <item>dinosauro</item>
+        <item>cane</item>
+        <item>delfino</item>
+        <item>asino</item>
+        <item>anatra</item>
+        <item>elefante</item>
+        <item>volare</item>
+        <item>volpe</item>
+        <item>rana</item>
+        <item>giraffa</item>
+        <item>capra</item>
+        <item>cavia</item>
+        <item>ippopotamo</item>
+        <item>upupa</item>
+        <item>cavallo</item>
+        <item>iena</item>
+        <item>leone</item>
+        <item>scimmia</item>
+        <item>zanzara</item>
+        <item>mouse</item>
+        <item>gufo</item>
+        <item>pappagallo</item>
+        <item>pinguino</item>
+        <item>maiale</item>
+        <item>piccione</item>
+        <item>cucciolo</item>
+        <item>ratto</item>
+        <item>rinoceronte</item>
+        <item>gallo</item>
+        <item>gabbiano</item>
+        <item>sigillo</item>
+        <item>pecora</item>
+        <item>serpente</item>
+        <item>tacchino</item>
+        <item>tricheco</item>
+        <item>balena</item>
+        <item>lupo</item>
+    </string-array>
+
+</resources>
+

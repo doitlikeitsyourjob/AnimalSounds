@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Animal Sounds</string>
+    <string name="textview_home_hint">teretulnud</string>
+    <string name="textview_home">Tere tulemast Animal häälitsusi</string>
+    <string name="home_pic">loomade häälitsusi</string>
+    <string name="button_play">mängima</string>
+    <string name="actionExit">Väljapääs</string>
+    <string name="action_previous">eelmine</string>
+    <string name="action_next">järgmine</string>
+
+    <string name="title_template_step">Mis müra ei </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">teretulnud</string>
+    <string name="title_screen_slide">Animal Sounds</string>
+    <string name="tapinfo">(puuduta mängida heli)</string>
+    <string name="make"> teha?</string>
+</resources>

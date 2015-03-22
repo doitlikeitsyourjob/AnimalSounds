@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>purva</item>
+        <item>ņurdēt</item>
+        <item>baumas</item>
+        <item>čivināt</item>
+        <item>sprauslāt</item>
+        <item>Munch Munch</item>
+        <item>rukšķēšana</item>
+        <item>ņau</item>
+        <item>Munch</item>
+        <item>palūrēt palūrēt</item>
+        <item>kladzināt kladzināt</item>
+        <item>maurošana</item>
+        <item>čīkstēt čīkstēt</item>
+        <item>ķērkšana</item>
+        <item>blēt</item>
+        <item>rēkt</item>
+        <item>audi</item>
+        <item>Uzklikšķini</item>
+        <item>hee nū</item>
+        <item>pēkšķēt pēkšķēt</item>
+        <item>trompete</item>
+        <item>baumas</item>
+        <item>tērzēšana</item>
+        <item>ķērkšana</item>
+        <item>blēt</item>
+        <item>blēt</item>
+        <item>čīkstēt</item>
+        <item>sprauslāt</item>
+        <item>bļāviens</item>
+        <item>zviegt</item>
+        <item>nosmieties</item>
+        <item>rēkt</item>
+        <item>ooh-ah-ah</item>
+        <item>dungot</item>
+        <item>čīkstēt čīkstēt</item>
+        <item>brēkt brēkt</item>
+        <item>sarunas</item>
+        <item>brēciens</item>
+        <item>sprauslāt</item>
+        <item>dūdot</item>
+        <item>kvekšķēt</item>
+        <item>čīkstēt</item>
+        <item>baurot</item>
+        <item>gailis-a-doodle</item>
+        <item>Squawk</item>
+        <item>izsaukums</item>
+        <item>blēt</item>
+        <item>svilpt</item>
+        <item>rīt</item>
+        <item>vaidēt</item>
+        <item>dziedāt</item>
+        <item>kaukt</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>nūja</item>
+        <item>nest</item>
+        <item>bite</item>
+        <item>putns</item>
+        <item>bullis</item>
+        <item>bunny</item>
+        <item>kamielis</item>
+        <item>kaķis</item>
+        <item>kāpurs</item>
+        <item>cālis</item>
+        <item>cālis</item>
+        <item>govs</item>
+        <item>krikets</item>
+        <item>vārna</item>
+        <item>briedis</item>
+        <item>dinozaurs</item>
+        <item>suns</item>
+        <item>delfīns</item>
+        <item>ēzelis</item>
+        <item>pīle</item>
+        <item>zilonis</item>
+        <item>lidot</item>
+        <item>lapsa</item>
+        <item>varde</item>
+        <item>žirafe</item>
+        <item>kaza</item>
+        <item>jūras cūciņa</item>
+        <item>nīlzirgs</item>
+        <item>bada dzeguze</item>
+        <item>zirgs</item>
+        <item>hiēna</item>
+        <item>lauva</item>
+        <item>pērtiķis</item>
+        <item>ods</item>
+        <item>pele</item>
+        <item>pūce</item>
+        <item>papagailis</item>
+        <item>pingvīns</item>
+        <item>cūka</item>
+        <item>balodis</item>
+        <item>kucēns</item>
+        <item>žurka</item>
+        <item>degunradzis</item>
+        <item>gailis</item>
+        <item>kaija</item>
+        <item>zīmogs</item>
+        <item>aita</item>
+        <item>čūska</item>
+        <item>tītars</item>
+        <item>valzirgs</item>
+        <item>valis</item>
+        <item>vilks</item>
+    </string-array>
+
+</resources>
+

@@ -1,0 +1,19 @@
+
+<resources>
+    <string name="app_name">Tierstimmen</string>
+    <string name="textview_home_hint">willkommen</string>
+    <string name="textview_home">Willkommen bei Tiergeräusche</string>
+    <string name="home_pic">Tiergeräusche</string>
+    <string name="button_play">spielen</string>
+    <string name="actionExit">Ausgang</string>
+    <string name="action_previous">früher</string>
+    <string name="action_next">nächste</string>
+
+    <string name="title_template_step">Welche Geräusche hat der  </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">willkommen</string>
+    <string name="title_screen_slide">Animal Sounds</string>
+    <string name="tapinfo">(tippen Sie auf Sound wiedergeben)</string>
+    <string name="make"> zu machen?</string>
+</resources>

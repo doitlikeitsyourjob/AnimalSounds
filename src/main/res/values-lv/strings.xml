@@ -1,0 +1,19 @@
+﻿
+<resources>
+    <string name="app_name">dzīvnieku Skaņas</string>
+    <string name="textview_home_hint">gaidīts</string>
+    <string name="textview_home">Laipni lūdzam Dzīvnieku trokšņiem</string>
+    <string name="home_pic">dzīvnieku trokšņi</string>
+    <string name="button_play">spēlēt</string>
+    <string name="actionExit">izeja</string>
+    <string name="action_previous">Iepriekšējais</string>
+    <string name="action_next">nākamais</string>
+
+    <string name="title_template_step">Kāda troksnis dara </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">gaidīts</string>
+    <string name="title_screen_slide">dzīvnieku Skaņas</string>
+    <string name="tapinfo">(pieskarieties, lai atskaņotu skaņu)</string>
+    <string name="make"> padarīt?</string>
+</resources>

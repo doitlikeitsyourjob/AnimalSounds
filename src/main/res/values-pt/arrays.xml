@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>guincho</item>
+        <item>rosnar</item>
+        <item>zumbido</item>
+        <item>tweet</item>
+        <item>bufar</item>
+        <item>Munch Munch</item>
+        <item>grunhido</item>
+        <item>miau</item>
+        <item>chomp chomp</item>
+        <item>pio pio</item>
+        <item>cacarejar cacarejo</item>
+        <item>mugido</item>
+        <item>ranger ranger</item>
+        <item>Kaw Kaw</item>
+        <item>balir</item>
+        <item>rugido</item>
+        <item>Woof</item>
+        <item>clique em clique</item>
+        <item>hee haw</item>
+        <item>quack quack</item>
+        <item>trombeta</item>
+        <item>zumbido</item>
+        <item>bate-papo</item>
+        <item>coaxar</item>
+        <item>balir</item>
+        <item>balir</item>
+        <item>guincho</item>
+        <item>bufar</item>
+        <item>grito</item>
+        <item>relincho</item>
+        <item>cacarejar</item>
+        <item>rugido</item>
+        <item>ooh-ah-ah</item>
+        <item>zumbido</item>
+        <item>guincho guincho</item>
+        <item>buzina da buzina</item>
+        <item>negociações</item>
+        <item>zurro</item>
+        <item>bufar</item>
+        <item>koo</item>
+        <item>ganido</item>
+        <item>guincho</item>
+        <item>berro</item>
+        <item>galo um doo</item>
+        <item>grasnido</item>
+        <item>chamada</item>
+        <item>balir</item>
+        <item>assobio</item>
+        <item>devorar</item>
+        <item>gemido</item>
+        <item>cantar</item>
+        <item>uivo</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>morcego</item>
+        <item>urso</item>
+        <item>abelha</item>
+        <item>pássaro</item>
+        <item>touro</item>
+        <item>coelho</item>
+        <item>camelo</item>
+        <item>gato</item>
+        <item>lagarta</item>
+        <item>pintinho</item>
+        <item>frango</item>
+        <item>vaca</item>
+        <item>críquete</item>
+        <item>corvo</item>
+        <item>cervo</item>
+        <item>dinossauro</item>
+        <item>cão</item>
+        <item>golfinho</item>
+        <item>burro</item>
+        <item>pato</item>
+        <item>elefante</item>
+        <item>voar</item>
+        <item>raposa</item>
+        <item>sapo</item>
+        <item>girafa</item>
+        <item>cabra</item>
+        <item>cobaia</item>
+        <item>hipopótamo</item>
+        <item>poupa</item>
+        <item>cavalo</item>
+        <item>hiena</item>
+        <item>leão</item>
+        <item>macaco</item>
+        <item>mosquito</item>
+        <item>mouse</item>
+        <item>coruja</item>
+        <item>papagaio</item>
+        <item>pinguim</item>
+        <item>porco</item>
+        <item>pombo</item>
+        <item>cachorro</item>
+        <item>rato</item>
+        <item>rinoceronte</item>
+        <item>galo</item>
+        <item>gaivota</item>
+        <item>selo</item>
+        <item>ovelha</item>
+        <item>cobra</item>
+        <item>peru</item>
+        <item>morsa</item>
+        <item>baleia</item>
+        <item>lobo</item>
+    </string-array>
+
+</resources>

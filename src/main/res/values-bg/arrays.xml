@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>писък</item>
+        <item>ръмжене</item>
+        <item>бръмча</item>
+        <item>чуруликане</item>
+        <item>сумтене</item>
+        <item>Мунк Мунк</item>
+        <item>грухтене</item>
+        <item>мяукане</item>
+        <item>Мунк</item>
+        <item>надникнем надникнем</item>
+        <item>клопане клопане</item>
+        <item>мучене</item>
+        <item>скърца скърца</item>
+        <item>гракам</item>
+        <item>блея</item>
+        <item>рев</item>
+        <item>вътък</item>
+        <item>върху Щракнете</item>
+        <item>хи хо</item>
+        <item>шарлатанин шарлатанин</item>
+        <item>тромпет</item>
+        <item>бръмча</item>
+        <item>чат</item>
+        <item>грачене</item>
+        <item>блея</item>
+        <item>блея</item>
+        <item>скърцане</item>
+        <item>сумтене</item>
+        <item>подвиквам</item>
+        <item>цвилене</item>
+        <item>кудкудякане</item>
+        <item>рев</item>
+        <item>ох-ах-ах</item>
+        <item>бучене</item>
+        <item>скърцат скърцат</item>
+        <item>освиркат освиркат</item>
+        <item>разговори</item>
+        <item>рева</item>
+        <item>сумтене</item>
+        <item>гукане</item>
+        <item>лай</item>
+        <item>скърцане</item>
+        <item>мучене</item>
+        <item>кур-а-Doodle</item>
+        <item>крясък</item>
+        <item>повикване</item>
+        <item>блея</item>
+        <item>съскане</item>
+        <item>крякане</item>
+        <item>стон</item>
+        <item>пея</item>
+        <item>вой</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>прилеп</item>
+        <item>нося</item>
+        <item>пчела</item>
+        <item>птица</item>
+        <item>бик</item>
+        <item>зайче</item>
+        <item>камила</item>
+        <item>котка</item>
+        <item>гъсеница</item>
+        <item>пиле</item>
+        <item>пиле</item>
+        <item>крава</item>
+        <item>крикет</item>
+        <item>врана</item>
+        <item>елен</item>
+        <item>динозавър</item>
+        <item>куче</item>
+        <item>делфин</item>
+        <item>магаре</item>
+        <item>патица</item>
+        <item>слон</item>
+        <item>летя</item>
+        <item>лисица</item>
+        <item>жаба</item>
+        <item>жирафа</item>
+        <item>коза</item>
+        <item>морско свинче</item>
+        <item>хипопотам</item>
+        <item>папуняк</item>
+        <item>кон</item>
+        <item>хиена</item>
+        <item>лъв</item>
+        <item>маймуна</item>
+        <item>комар</item>
+        <item>мишка</item>
+        <item>бухал</item>
+        <item>папагал</item>
+        <item>пингвин</item>
+        <item>прасе</item>
+        <item>гълъб</item>
+        <item>кученце</item>
+        <item>плъх</item>
+        <item>носорог</item>
+        <item>петел</item>
+        <item>чайка</item>
+        <item>уплътнение</item>
+        <item>овца</item>
+        <item>змия</item>
+        <item>Турция</item>
+        <item>морж</item>
+        <item>кит</item>
+        <item>вълк</item>
+    </string-array>
+
+</resources>
+
+

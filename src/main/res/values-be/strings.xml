@@ -1,0 +1,19 @@
+
+<resources>
+    <string name="app_name">гукі жывёл</string>
+    <string name="textview_home_hint">дабро запрашаем</string>
+    <string name="textview_home">Сардэчна запрашаем жывёл шумоў</string>
+    <string name="home_pic">шумы жывёл</string>
+    <string name="button_play">гуляць</string>
+    <string name="actionExit">выхад</string>
+    <string name="action_previous">папярэдні</string>
+    <string name="action_next">наступны</string>
+
+    <string name="title_template_step">Які шум робіць </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ТАА</string>
+    <string name="action_bar_title">Сардэчна запрашаем</string>
+    <string name="title_screen_slide">гукі жывёл</string>
+    <string name="tapinfo">(Націсніце, каб прайграваць гук)</string>
+    <string name="make"> зрабіць?</string>
+</resources>

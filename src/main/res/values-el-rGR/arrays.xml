@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>στριγκλιά</item>
+        <item>γκρινιάζω</item>
+        <item>βόμβος</item>
+        <item>τιτίβισμα</item>
+        <item>φύσημα</item>
+        <item>Munch Munch</item>
+        <item>γρυλλισμός</item>
+        <item>νιαούρισμα</item>
+        <item>Munch</item>
+        <item>peep τιτίβισμα</item>
+        <item>κακαρίζω κακαρίζω</item>
+        <item>μουγκανιτό</item>
+        <item>τρίζει τρίζει</item>
+        <item>κράξιμο</item>
+        <item>βέλασμα</item>
+        <item>βοή</item>
+        <item>υφάδι</item>
+        <item>κλικ κλικ</item>
+        <item>καγχασμός</item>
+        <item>κομπογιαννίτης κομπογιαννίτης</item>
+        <item>τρομπέτα</item>
+        <item>βόμβος</item>
+        <item>κουβέντα</item>
+        <item>γκρινιάζω</item>
+        <item>βέλασμα</item>
+        <item>βέλασμα</item>
+        <item>τρίξιμο</item>
+        <item>φύσημα</item>
+        <item>κραυγή</item>
+        <item>χλιμιντρίζω</item>
+        <item>καγχάζω</item>
+        <item>βοή</item>
+        <item>Ooh-ah-ah</item>
+        <item>βουητό</item>
+        <item>τρίξιμο τρίξιμο</item>
+        <item>σφύριγμα σφύριγμα</item>
+        <item>συνομιλίες</item>
+        <item>ογκένισμα</item>
+        <item>φύσημα</item>
+        <item>μουρμουρίζω</item>
+        <item>ουρλιάζω</item>
+        <item>τρίξιμο</item>
+        <item>παρακάτω</item>
+        <item>cock-a-doodle</item>
+        <item>φωνάζω</item>
+        <item>κλήση</item>
+        <item>βέλασμα</item>
+        <item>σφύριγμα</item>
+        <item>καταβροχθίζω</item>
+        <item>γκρίνια</item>
+        <item>τραγουδώ</item>
+        <item>ουρλιάζω</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>ρόπαλο</item>
+        <item>φέρουν</item>
+        <item>μέλισσα</item>
+        <item>πουλί</item>
+        <item>ταύρος</item>
+        <item>λαγουδάκι</item>
+        <item>καμήλα</item>
+        <item>γάτα</item>
+        <item>κάμπια</item>
+        <item>νεοσσός</item>
+        <item>κοτόπουλο</item>
+        <item>αγελάδα</item>
+        <item>κρίκετ</item>
+        <item>κοράκι</item>
+        <item>ελάφι</item>
+        <item>δεινόσαυρος</item>
+        <item>σκύλος</item>
+        <item>δελφίνι</item>
+        <item>γάιδαρος</item>
+        <item>πάπια</item>
+        <item>ελέφαντας</item>
+        <item>μύγα</item>
+        <item>αλεπού</item>
+        <item>βάτραχος</item>
+        <item>καμηλοπάρδαλη</item>
+        <item>κατσίκα</item>
+        <item>ινδικό χοιρίδιο</item>
+        <item>ιπποπόταμος</item>
+        <item>τσαλαπετεινός</item>
+        <item>άλογο</item>
+        <item>ύαινα</item>
+        <item>λιοντάρι</item>
+        <item>μαϊμού</item>
+        <item>κουνούπι</item>
+        <item>ποντίκι</item>
+        <item>κουκουβάγια</item>
+        <item>παπαγάλος</item>
+        <item>πιγκουίνος</item>
+        <item>γουρούνι</item>
+        <item>περιστέρι</item>
+        <item>κουτάβι</item>
+        <item>αρουραίος</item>
+        <item>ρινόκερος</item>
+        <item>κόκκορας</item>
+        <item>γλάρος</item>
+        <item>σφραγίδα</item>
+        <item>πρόβατα</item>
+        <item>φίδι</item>
+        <item>Τουρκία</item>
+        <item>θαλάσσιος ίππος</item>
+        <item>φάλαινα</item>
+        <item>λύκος</item>
+    </string-array>
+
+</resources>
+
+

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Animal Sounds</string>
+    <string name="textview_home_hint">ласкаво просимо</string>
+    <string name="textview_home">Ласкаво просимо на тварин Шумов</string>
+    <string name="home_pic">шуми тварин</string>
+    <string name="button_play">грати</string>
+    <string name="actionExit">вихід</string>
+    <string name="action_previous">попередній</string>
+    <string name="action_next">поруч</string>
+
+    <string name="title_template_step">Який шум робить </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">Ласкаво просимо</string>
+    <string name="title_screen_slide">Animal Sounds</string>
+    <string name="tapinfo">(Натисніть для відтворення звуку)</string>
+    <string name="make"> зробити?</string>
+</resources>

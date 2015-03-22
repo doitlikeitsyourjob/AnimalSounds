@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>вереск</item>
+        <item>гарчання</item>
+        <item>гул</item>
+        <item>Tweet Tweet</item>
+        <item>фиркання</item>
+        <item>жувати жувати</item>
+        <item>хрюкати</item>
+        <item>мяу</item>
+        <item>Мунк</item>
+        <item>писк писк</item>
+        <item>кликаем кликаем</item>
+        <item>мукання</item>
+        <item>скрип скрип</item>
+        <item>Кау Кау</item>
+        <item>бекати</item>
+        <item>рев</item>
+        <item>гав гав</item>
+        <item>натисніть кнопку</item>
+        <item>хи глоду</item>
+        <item>кря кря</item>
+        <item>труба</item>
+        <item>гул</item>
+        <item>чат</item>
+        <item>каркання</item>
+        <item>бекати</item>
+        <item>бекати</item>
+        <item>писк</item>
+        <item>фиркання</item>
+        <item>вигук</item>
+        <item>іржати</item>
+        <item>хихикання</item>
+        <item>рев</item>
+        <item>ох-ах-ах</item>
+        <item>гул</item>
+        <item>писк писк</item>
+        <item>крик крик</item>
+        <item>переговори</item>
+        <item>кричати</item>
+        <item>фиркання</item>
+        <item>ку</item>
+        <item>вереск</item>
+        <item>писк</item>
+        <item>рев</item>
+        <item>зведіть каракулі ду</item>
+        <item>пронизливий крик</item>
+        <item>виклик</item>
+        <item>бекати</item>
+        <item>шипіння</item>
+        <item>пожирати</item>
+        <item>стогін</item>
+        <item>співати</item>
+        <item>виття</item>
+    </string-array>
+
+    <string-array name="animaltext">
+        <item>летюча миша</item>
+        <item>ведмідь</item>
+        <item>бджола</item>
+        <item>птах</item>
+        <item>Бик</item>
+        <item>кролик</item>
+        <item>верблюд</item>
+        <item>Кот</item>
+        <item>гусениця</item>
+        <item>курча</item>
+        <item>курка</item>
+        <item>корова</item>
+        <item>крикет</item>
+        <item>ворона</item>
+        <item>олень</item>
+        <item>динозавр</item>
+        <item>собака</item>
+        <item>Дельфін</item>
+        <item>осел</item>
+        <item>качка</item>
+        <item>слон</item>
+        <item>літати</item>
+        <item>лисиця</item>
+        <item>жаба</item>
+        <item>жираф</item>
+        <item>козел</item>
+        <item>морська свинка</item>
+        <item>гіпопотам</item>
+        <item>Удод</item>
+        <item>кінь</item>
+        <item>гієна</item>
+        <item>Лев</item>
+        <item>Мавпа</item>
+        <item>Комар</item>
+        <item>миша</item>
+        <item>сова</item>
+        <item>папуга</item>
+        <item>пінгвін</item>
+        <item>свиня</item>
+        <item>голуб</item>
+        <item>щеня</item>
+        <item>Щур</item>
+        <item>носоріг</item>
+        <item>півень</item>
+        <item>Чайка</item>
+        <item>Друк</item>
+        <item>овець</item>
+        <item>змія</item>
+        <item>Туреччина</item>
+        <item>морж</item>
+        <item>кит</item>
+        <item>вовк</item>
+    </string-array>
+</resources>

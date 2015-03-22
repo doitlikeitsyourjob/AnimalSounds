@@ -1,0 +1,19 @@
+
+<resources>
+    <string name="app_name">dyrelyde</string>
+    <string name="textview_home_hint">velkommen</string>
+    <string name="textview_home">Velkommen til dyrelyde</string>
+    <string name="home_pic">dyrelyde</string>
+    <string name="button_play">spille</string>
+    <string name="actionExit">Udgang</string>
+    <string name="action_previous">Forrige</string>
+    <string name="action_next">næste</string>
+
+    <string name="title_template_step">Hvad støj gør </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">Velkommen</string>
+    <string name="title_screen_slide">dyrelyde</string>
+    <string name="tapinfo">(tryk for at afspille lyd)</string>
+    <string name="make"> gøre?</string>
+</resources>

@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>melengking</item>
+        <item>menggeram</item>
+        <item>dengungan</item>
+        <item>menciak menciak</item>
+        <item>mendengus</item>
+        <item>mengunyah mengunyah</item>
+        <item>mengorok</item>
+        <item>meow</item>
+        <item>chomp chomp</item>
+        <item>mengintip mengintip</item>
+        <item>keok keok</item>
+        <item>melenguh</item>
+        <item>berderit berderit</item>
+        <item>kaw kaw</item>
+        <item>mengembik</item>
+        <item>raungan</item>
+        <item>guk guk</item>
+        <item>klik klik</item>
+        <item>hee haw</item>
+        <item>dukun dukun</item>
+        <item>terompet</item>
+        <item>dengungan</item>
+        <item>mengobrol</item>
+        <item>menggaok</item>
+        <item>mengembik</item>
+        <item>mengembik</item>
+        <item>mencicit</item>
+        <item>mendengus</item>
+        <item>teriakan</item>
+        <item>meringkik</item>
+        <item>tertawa kecil</item>
+        <item>raungan</item>
+        <item>ooh-ah-ah</item>
+        <item>dengung</item>
+        <item>mencicit mencicit</item>
+        <item>bagasi bagasi</item>
+        <item>pembicaraan</item>
+        <item>meringkik</item>
+        <item>mendengus</item>
+        <item>coo coo</item>
+        <item>menyalak</item>
+        <item>mencicit</item>
+        <item>lenguh</item>
+        <item>kukukeruyuk</item>
+        <item>mengomel</item>
+        <item>panggilan</item>
+        <item>baa baa</item>
+        <item>desis</item>
+        <item>melahap</item>
+        <item>mengerang</item>
+        <item>bernyanyi</item>
+        <item>melolong</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>kelelawar</item>
+        <item>beruang</item>
+        <item>lebah</item>
+        <item>burung</item>
+        <item>banteng</item>
+        <item>kelinci</item>
+        <item>unta</item>
+        <item>kucing</item>
+        <item>ulat</item>
+        <item>anak ayam</item>
+        <item>ayam</item>
+        <item>sapi</item>
+        <item>jangkrik</item>
+        <item>gagak</item>
+        <item>rusa</item>
+        <item>Dinosaur</item>
+        <item>anjing</item>
+        <item>ikan lumba-lumba</item>
+        <item>keledai</item>
+        <item>bebek</item>
+        <item>gajah</item>
+        <item>terbang</item>
+        <item>rubah</item>
+        <item>katak</item>
+        <item>jerapah</item>
+        <item>kambing</item>
+        <item>marmot</item>
+        <item>Hippo</item>
+        <item>semacam burung</item>
+        <item>kuda</item>
+        <item>dubuk</item>
+        <item>singa</item>
+        <item>monyet</item>
+        <item>nyamuk</item>
+        <item>mouse</item>
+        <item>burung hantu</item>
+        <item>burung beo</item>
+        <item>penguin</item>
+        <item>babi</item>
+        <item>merpati</item>
+        <item>anak anjing</item>
+        <item>tikus</item>
+        <item>badak</item>
+        <item>ayam jantan</item>
+        <item>camar</item>
+        <item>segel</item>
+        <item>domba</item>
+        <item>ular</item>
+        <item>Turki</item>
+        <item>anjing laut</item>
+        <item>Whale</item>
+        <item>serigala</item>
+    </string-array>
+
+</resources>
+

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>screech</item>
+        <item>growl</item>
+        <item>buzz</item>
+        <item>tweet tweet</item>
+        <item>snort</item>
+        <item>munch munch</item>
+        <item>grunt</item>
+        <item>meow</item>
+        <item>chomp chomp</item>
+        <item>peep peep</item>
+        <item>cluck cluck</item>
+        <item>moo</item>
+        <item>creak creak</item>
+        <item>kaw kaw</item>
+        <item>troat</item>
+        <item>roar</item>
+        <item>woof woof</item>
+        <item>click click</item>
+        <item>heehaw</item>
+        <item>quack quack</item>
+        <item>trumpet</item>
+        <item>buzz</item>
+        <item>gekker</item>
+        <item>croak</item>
+        <item>bleat</item>
+        <item>bleat</item>
+        <item>wheek</item>
+        <item>snort</item>
+        <item>whoop</item>
+        <item>neigh</item>
+        <item>chuckle</item>
+        <item>roar</item>
+        <item>ooh-ah-ah</item>
+        <item>zzzzzzzzzz</item>
+        <item>squeak squeak</item>
+        <item>hoot hoot</item>
+        <item>talks</item>
+        <item>bray</item>
+        <item>oink oink</item>
+        <item>coo coo</item>
+        <item>yelp</item>
+        <item>eek</item>
+        <item>bellow</item>
+        <item>cock-a-doodle-doo</item>
+        <item>squawk</item>
+        <item>arf arf</item>
+        <item>baa baa</item>
+        <item>hiss</item>
+        <item>gobble</item>
+        <item>moan</item>
+        <item>sing</item>
+        <item>howl</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>Bat</item>
+        <item>Bear</item>
+        <item>Bee</item>
+        <item>Bird</item>
+        <item>Bull</item>
+        <item>Bunny</item>
+        <item>Camel</item>
+        <item>Cat</item>
+        <item>Caterpillar</item>
+        <item>Chick</item>
+        <item>Chicken</item>
+        <item>Cow</item>
+        <item>Cricket</item>
+        <item>Crow</item>
+        <item>Deer</item>
+        <item>Dinosaur</item>
+        <item>Dog</item>
+        <item>Dolphin</item>
+        <item>Donkey</item>
+        <item>Duck</item>
+        <item>Elephant</item>
+        <item>Fly</item>
+        <item>Fox</item>
+        <item>Frog</item>
+        <item>Giraffe</item>
+        <item>Goat</item>
+        <item>Guinea pig</item>
+        <item>Hippo</item>
+        <item>Hoopoe</item>
+        <item>Horse</item>
+        <item>Hyena</item>
+        <item>Lion</item>
+        <item>Monkey</item>
+        <item>Mosquito</item>
+        <item>Mouse</item>
+        <item>Owl</item>
+        <item>Parrot</item>
+        <item>Penguin</item>
+        <item>Pig</item>
+        <item>Pigeon</item>
+        <item>Puppy</item>
+        <item>Rat</item>
+        <item>Rhino</item>
+        <item>Rooster</item>
+        <item>Seagull</item>
+        <item>Seal</item>
+        <item>Sheep</item>
+        <item>Snake</item>
+        <item>Turkey</item>
+        <item>Walrus</item>
+        <item>Whale</item>
+        <item>Wolf</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,19 @@
+﻿
+<resources>
+    <string name="app_name">Анимал Соундс</string>
+    <string name="textview_home_hint">добродошао</string>
+    <string name="textview_home">Добродошли на животињске шумова</string>
+    <string name="home_pic">анимал ноисес</string>
+    <string name="button_play">играти</string>
+    <string name="actionExit">Излаз</string>
+    <string name="action_previous">Претходна</string>
+    <string name="action_next">следећи</string>
+
+    <string name="title_template_step">Каква бука ради </string>
+
+    <string name="action_bar_splash">доитликеитсиоурјоб доо</string>
+    <string name="action_bar_title">добродошао</string>
+    <string name="title_screen_slide">Анимал Соундс</string>
+    <string name="tapinfo">(додирните да бисте чули звук)</string>
+    <string name="make"> да?</string>
+</resources>

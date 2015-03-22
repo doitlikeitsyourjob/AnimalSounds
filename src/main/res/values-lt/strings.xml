@@ -1,0 +1,18 @@
+﻿<resources>
+    <string name="app_name">Gyvūnų Garsai</string>
+    <string name="textview_home_hint">laukiamas</string>
+    <string name="textview_home">Sveiki atvykę į gyvūnų garsų,</string>
+    <string name="home_pic">gyvūnų garsai</string>
+    <string name="button_play">žaisti</string>
+    <string name="actionExit">išeiti</string>
+    <string name="action_previous">ankstesnis</string>
+    <string name="action_next">kitas</string>
+
+    <string name="title_template_step">Kas triukšmas daro </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">laukiamas</string>
+    <string name="title_screen_slide">Gyvūnų Garsai</string>
+    <string name="tapinfo">(bakstelėkite žaisti garsą)</string>
+    <string name="make"> padaryti?</string>
+</resources>

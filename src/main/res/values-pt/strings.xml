@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Animal Sounds</string>
+    <string name="textview_home_hint">bem-vindo</string>
+    <string name="textview_home">Bem-vindo a ruídos de animais</string>
+    <string name="home_pic">ruídos de animais</string>
+    <string name="button_play">jogar</string>
+    <string name="actionExit">saída</string>
+    <string name="action_previous">anterior</string>
+    <string name="action_next">próximo</string>
+
+    <string name="title_template_step">O barulho que o  </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">bem-vindo</string>
+    <string name="title_screen_slide">Animal Sounds</string>
+    <string name="tapinfo">(toque para reproduzir som)</string>
+    <string name="make"> faz?</string>
+</resources>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>ร้องเสียงกรี๊ด</item>
+        <item>การคำราม</item>
+        <item>ฉวัดเฉวียน</item>
+        <item>ทวีตทวีต</item>
+        <item>การดื่มอย่างรวดเร็ว</item>
+        <item>แทะเล็มแทะเล็ม</item>
+        <item>เสี้ยงฮึดฮัดแสดงความไม่พอใจ</item>
+        <item>เสียงฟี้อย่างแมว</item>
+        <item>แทะเล็ม</item>
+        <item>มองลอดมองลอด</item>
+        <item>ส่งเสียงกระต๊ากส่งเสียงกระต๊าก</item>
+        <item>มอ</item>
+        <item>เสียงดังเอี๊ยดเสียงดังเอี๊ยด</item>
+        <item>ขาวขาว</item>
+        <item>พร่ำบ่น</item>
+        <item>เสียงคำราม</item>
+        <item>โฮ่งโฮ่ง</item>
+        <item>คลิกคลิก</item>
+        <item>ฮิอ้ำอึ้ง</item>
+        <item>หมอเถื่อนหมอเถื่อน</item>
+        <item>แตรลำโพง</item>
+        <item>ฉวัดเฉวียน</item>
+        <item>พูดคุย</item>
+        <item>บ่น</item>
+        <item>พร่ำบ่น</item>
+        <item>พร่ำบ่น</item>
+        <item>รับสารภาพ</item>
+        <item>การดื่มอย่างรวดเร็ว</item>
+        <item>โห่</item>
+        <item>ฮี้</item>
+        <item>ฮา</item>
+        <item>เสียงคำราม</item>
+        <item>โออาอา</item>
+        <item>ครวญเพลง</item>
+        <item>สารภาพรับสารภาพ</item>
+        <item>บีบแตรบีบแตร</item>
+        <item>พูดถึง</item>
+        <item>เสียงแตร</item>
+        <item>การดื่มอย่างรวดเร็ว</item>
+        <item>คู</item>
+        <item>ร้องเอ๋ง</item>
+        <item>รับสารภาพ</item>
+        <item>การร้อง</item>
+        <item>ไก่ดู doodle</item>
+        <item>เต้นแร้งเต้นกา</item>
+        <item>โทรศัพท์</item>
+        <item>ร้องอย่างแกะ</item>
+        <item>ฟ่อ</item>
+        <item>ขบ</item>
+        <item>คราง</item>
+        <item>ร้องเพลง</item>
+        <item>เสียงหอน</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>ค้างคาว</item>
+        <item>หมี</item>
+        <item>ผึ้ง</item>
+        <item>นก</item>
+        <item>วัว</item>
+        <item>กระต่าย</item>
+        <item>อูฐ</item>
+        <item>แมว</item>
+        <item>ด้วง</item>
+        <item>เจี๊ยบ</item>
+        <item>ไก่</item>
+        <item>วัว</item>
+        <item>จิ้งหรีด</item>
+        <item>อีกา</item>
+        <item>กวาง</item>
+        <item>ไดโนเสาร์</item>
+        <item>สุนัข</item>
+        <item>ปลาโลมา</item>
+        <item>ลา</item>
+        <item>เป็ด</item>
+        <item>ช้าง</item>
+        <item>บิน</item>
+        <item>จิ้งจอก</item>
+        <item>กบ</item>
+        <item>ยีราฟ</item>
+        <item>แพะ</item>
+        <item>หนูตะเภา</item>
+        <item>ฮิปโป</item>
+        <item>กะรางหัวขวาน</item>
+        <item>ม้า</item>
+        <item>หมาใน</item>
+        <item>สิงโต</item>
+        <item>ลิง</item>
+        <item>ยุง</item>
+        <item>เม้าส์</item>
+        <item>นกฮูก</item>
+        <item>นกแก้ว</item>
+        <item>นกเพนกวิน</item>
+        <item>หมู</item>
+        <item>นกพิราบ</item>
+        <item>ลูกสุนัข</item>
+        <item>หนู</item>
+        <item>แรด</item>
+        <item>ไก่ตัวผู้</item>
+        <item>นกนางนวล</item>
+        <item>ตราประทับ</item>
+        <item>แกะ</item>
+        <item>งู</item>
+        <item>ตุรกี</item>
+        <item>ช้างน้ำ</item>
+        <item>วาฬ</item>
+        <item>หมาป่า</item>
+    </string-array>
+
+</resources>
+

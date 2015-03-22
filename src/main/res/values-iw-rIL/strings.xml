@@ -1,0 +1,19 @@
+
+<resources>
+    <string name="app_name">צלילי בעלי החיים</string>
+    <string name="textview_home_hint">בברכה</string>
+    <string name="textview_home">ברוכים הבאים לקולות של בעלי החיים</string>
+    <string name="home_pic">קולות של בעלי חיים</string>
+    <string name="button_play">שחק</string>
+    <string name="actionExit">יציאה</string>
+    <string name="action_previous">קודם</string>
+    <string name="action_next">הבא</string>
+
+    <string name="title_template_step">מה עושה רעש </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">ברוכים הבאים</string>
+    <string name="title_screen_slide">צלילי בעלי החיים</string>
+    <string name="tapinfo">(ברז לנגן צליל)</string>
+    <string name="make"> לעשות?</string>
+</resources>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>matinis na sigaw</item>
+        <item>angil</item>
+        <item>humiging</item>
+        <item>tiririt</item>
+        <item>pagsisingasing</item>
+        <item>ngumalot ngumalot</item>
+        <item>igik</item>
+        <item>ngiyaw</item>
+        <item>ngumalot</item>
+        <item>sumilip sumilip</item>
+        <item>kumurukutok kumurukutok</item>
+        <item>unga</item>
+        <item>langitngit langitngit</item>
+        <item>mag-caw</item>
+        <item>unga</item>
+        <item>dumagundong</item>
+        <item>mga hibla na pahalang</item>
+        <item>i-click ang i-click ang</item>
+        <item>hee haw</item>
+        <item>hindi tunay palsipikado</item>
+        <item>trumpeta</item>
+        <item>humiging</item>
+        <item>usap-usapan</item>
+        <item>kumukak</item>
+        <item>unga</item>
+        <item>unga</item>
+        <item>langitngit</item>
+        <item>pagsisingasing</item>
+        <item>sigaw</item>
+        <item>humalinghing</item>
+        <item>tumawa nang marahan</item>
+        <item>dumagundong</item>
+        <item>ooh-ah-ah</item>
+        <item>humiging</item>
+        <item>langitngit langitngit</item>
+        <item>humyaw humyaw</item>
+        <item>Tinatalakay</item>
+        <item>ungal ng asno</item>
+        <item>pagsisingasing</item>
+        <item>magkurukutok</item>
+        <item>atungal</item>
+        <item>langitngit</item>
+        <item>pag-ungal</item>
+        <item>titi-a-doodle</item>
+        <item>pumyak</item>
+        <item>tawag</item>
+        <item>mag-unga</item>
+        <item>sumagitsit</item>
+        <item>lumamon</item>
+        <item>daing</item>
+        <item>pag-awit</item>
+        <item>pag-alulong</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>pamalo ng bola</item>
+        <item>magsilang ng sanggol</item>
+        <item>laywan</item>
+        <item>ibon</item>
+        <item>toro</item>
+        <item>kuneho</item>
+        <item>kamelyo</item>
+        <item>pusa</item>
+        <item>uod</item>
+        <item>sisiw</item>
+        <item>manok</item>
+        <item>baka</item>
+        <item>tururukan</item>
+        <item>uwak</item>
+        <item>usa</item>
+        <item>dinosauro</item>
+        <item>aso</item>
+        <item>dolpin</item>
+        <item>asno</item>
+        <item>pato</item>
+        <item>elepante</item>
+        <item>lumipad</item>
+        <item>soro</item>
+        <item>palaka</item>
+        <item>dyirap</item>
+        <item>kambing</item>
+        <item>taong ginagamit sa eksperimento</item>
+        <item>hippo</item>
+        <item>hoopoe</item>
+        <item>kabayo</item>
+        <item>Hyaenidae</item>
+        <item>leon</item>
+        <item>unggoy</item>
+        <item>lamok</item>
+        <item>mouse</item>
+        <item>bahaw</item>
+        <item>loro</item>
+        <item>ibong dagat</item>
+        <item>baboy</item>
+        <item>kalapati</item>
+        <item>tuta</item>
+        <item>puksain ang mga daga</item>
+        <item>rhino</item>
+        <item>tandang</item>
+        <item>tagak</item>
+        <item>selyo</item>
+        <item>tupa</item>
+        <item>ahas</item>
+        <item>pabo</item>
+        <item>Odobenus rosmarus</item>
+        <item>balyena</item>
+        <item>hindi magutom</item>
+    </string-array>
+
+</resources>

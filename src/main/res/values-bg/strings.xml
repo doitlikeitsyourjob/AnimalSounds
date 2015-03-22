@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">животински звуци</string>
+    <string name="textview_home_hint">добре дошъл</string>
+    <string name="textview_home">Добре дошли в Шумове при животни</string>
+    <string name="home_pic">животински звуци</string>
+    <string name="button_play">играя</string>
+    <string name="actionExit">изход</string>
+    <string name="action_previous">предишен</string>
+    <string name="action_next">до</string>
+
+    <string name="title_template_step">Какво шум върши </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">добре дошъл</string>
+    <string name="title_screen_slide">животински звуци</string>
+    <string name="tapinfo">(докоснете за възпроизвеждане на звук)</string>
+    <string name="make"> направи?</string>
+</resources>

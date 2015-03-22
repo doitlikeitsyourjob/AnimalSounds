@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>krijsen</item>
+        <item>grommen</item>
+        <item>gezoem</item>
+        <item>tweet tweet</item>
+        <item>gesnuif</item>
+        <item>munch munch</item>
+        <item>geknor</item>
+        <item>miauwen</item>
+        <item>Chomp Chomp</item>
+        <item>peep peep</item>
+        <item>tok tok</item>
+        <item>loeien</item>
+        <item>kraken kraken</item>
+        <item>kaw kaw</item>
+        <item>blaten</item>
+        <item>gebrul</item>
+        <item>woof woof</item>
+        <item>klik klik</item>
+        <item>hee haw</item>
+        <item>kwakzalver kwakzalver</item>
+        <item>trompet</item>
+        <item>gezoem</item>
+        <item>babbelen</item>
+        <item>kwaken</item>
+        <item>blaten</item>
+        <item>blaten</item>
+        <item>piepen</item>
+        <item>gesnuif</item>
+        <item>schreeuwen</item>
+        <item>hinniken</item>
+        <item>grinniken</item>
+        <item>gebrul</item>
+        <item>ooh-ah-ah</item>
+        <item>brommen</item>
+        <item>piep piep</item>
+        <item>krasgeluidkrasgeluid</item>
+        <item>gesprekken</item>
+        <item>gebalk</item>
+        <item>gesnuif</item>
+        <item>kirren</item>
+        <item>gekef</item>
+        <item>piepen</item>
+        <item>blaten</item>
+        <item>haan een doodle doo</item>
+        <item>vogelskreet</item>
+        <item>roep</item>
+        <item>baa baa</item>
+        <item>gesis</item>
+        <item>schrokken</item>
+        <item>kreunen</item>
+        <item>zingen</item>
+        <item>gehuil</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>vleermuis</item>
+        <item>Bear</item>
+        <item>honingbij</item>
+        <item>vogel</item>
+        <item>stier</item>
+        <item>konijntje</item>
+        <item>kameel</item>
+        <item>kat</item>
+        <item>rups</item>
+        <item>kuiken</item>
+        <item>kip</item>
+        <item>koe</item>
+        <item>krekel</item>
+        <item>kraai</item>
+        <item>hert</item>
+        <item>Dinosaur</item>
+        <item>hond</item>
+        <item>dolfijn</item>
+        <item>ezel</item>
+        <item>eend</item>
+        <item>olifant</item>
+        <item>vliegen</item>
+        <item>vos</item>
+        <item>kikker</item>
+        <item>giraffe</item>
+        <item>geit</item>
+        <item>cavia</item>
+        <item>nijlpaard</item>
+        <item>hop</item>
+        <item>paard</item>
+        <item>hyena</item>
+        <item>leeuw</item>
+        <item>aap</item>
+        <item>mug</item>
+        <item>muis</item>
+        <item>uil</item>
+        <item>papegaai</item>
+        <item>pinguïn</item>
+        <item>varken</item>
+        <item>duif</item>
+        <item>Puppy</item>
+        <item>rat</item>
+        <item>neushoorn</item>
+        <item>haan</item>
+        <item>meeuw</item>
+        <item>zeehond</item>
+        <item>schapen</item>
+        <item>slang</item>
+        <item>Turkije</item>
+        <item>walrus</item>
+        <item>Whale</item>
+        <item>wolf</item>
+    </string-array>
+
+</resources>
+

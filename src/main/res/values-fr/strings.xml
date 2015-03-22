@@ -1,0 +1,20 @@
+
+
+<resources>
+    <string name="app_name">Animal Sounds</string>
+    <string name="textview_home_hint">accueil</string>
+    <string name="textview_home">Bienvenue Bruits animaux</string>
+    <string name="home_pic">cris d\'animaux</string>
+    <string name="button_play">jouer</string>
+    <string name="actionExit">sortie</string>
+    <string name="action_previous">précédent</string>
+    <string name="action_next">prochaine</string>
+
+    <string name="title_template_step">Qu\'est-ce que le bruit ne le  </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">accueil</string>
+    <string name="title_screen_slide">Animal Sounds</string>
+    <string name="tapinfo">(appuyez sur pour jouer le son)</string>
+    <string name="make"> faire?</string>
+</resources>

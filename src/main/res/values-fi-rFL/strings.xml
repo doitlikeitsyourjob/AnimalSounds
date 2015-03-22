@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">animal Sounds</string>
+    <string name="textview_home_hint">tervetuloa</string>
+    <string name="textview_home">Tervetuloa eläinääniä</string>
+    <string name="home_pic">eläinten ääniä</string>
+    <string name="button_play">pelata</string>
+    <string name="actionExit">poistua</string>
+    <string name="action_previous">edellinen</string>
+    <string name="action_next">seuraava</string>
+
+    <string name="title_template_step">Mitä melu ei </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">tervetuloa</string>
+    <string name="title_screen_slide">animal Sounds</string>
+    <string name="tapinfo">(kosketa pelata ääntä)</string>
+    <string name="make"> tehdä?</string>
+</resources>

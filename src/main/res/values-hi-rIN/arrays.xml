@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>फटा आवाज़</item>
+        <item>बादल की गरज</item>
+        <item>भनभनाना</item>
+        <item>कलरव</item>
+        <item>नाक से शब्द निकालना</item>
+        <item>चबाना चबाना</item>
+        <item>असंतोष का शब्द</item>
+        <item>मियांउ</item>
+        <item>चबाना</item>
+        <item>झलक झलक</item>
+        <item>कुड़कुड़ाना कुड़कुड़ाना</item>
+        <item>राँभना</item>
+        <item>चरमराहट चरमराहट</item>
+        <item>कांव-कांव</item>
+        <item>मिमियाहट</item>
+        <item>गर्जन</item>
+        <item>woof</item>
+        <item>राइट-क्लिक करें</item>
+        <item>Hee बड़बड़ाना</item>
+        <item>नीम हकीम नीम हकीम</item>
+        <item>तुरही</item>
+        <item>भनभनाना</item>
+        <item>बातचीत</item>
+        <item>croak</item>
+        <item>मिमियाहट</item>
+        <item>मिमियाहट</item>
+        <item>चीख़</item>
+        <item>नाक से शब्द निकालना</item>
+        <item>ललकार</item>
+        <item>हिनहिनाना</item>
+        <item>कुड़ाकुड़ाना</item>
+        <item>गर्जन</item>
+        <item>ऊह-आह-आह</item>
+        <item>गुंजन</item>
+        <item>चीख़ चीख़</item>
+        <item>उल्लू की बोली उल्लू की बोली</item>
+        <item>बाते</item>
+        <item>चूर करना</item>
+        <item>नाक से शब्द निकालना</item>
+        <item>कूजना</item>
+        <item>भौंकना</item>
+        <item>चीख़</item>
+        <item>चिंघाड़ा</item>
+        <item>मुर्गा-ए-डूडल</item>
+        <item>पक्षी का कर्कश शब्द</item>
+        <item>पुकार</item>
+        <item>मिमियाना</item>
+        <item>फुफकार</item>
+        <item>शब्द करते हुए जल्दी जल्दी खाना</item>
+        <item>विलाप</item>
+        <item>गाना</item>
+        <item>चीख़</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>चमगादड़</item>
+        <item>भालू</item>
+        <item>मधुमक्खी</item>
+        <item>चिड़िया</item>
+        <item>सांड</item>
+        <item>करगोश</item>
+        <item>ऊंट</item>
+        <item>बिल्ली</item>
+        <item>कमला</item>
+        <item>बच्चा</item>
+        <item>मुर्गा</item>
+        <item>गाय</item>
+        <item>क्रिकेट</item>
+        <item>कौआ</item>
+        <item>हिरन</item>
+        <item>डायनासोर</item>
+        <item>कुत्ता</item>
+        <item>डॉल्फिन</item>
+        <item>गधा</item>
+        <item>बत्तख</item>
+        <item>हाथी</item>
+        <item>मक्खी</item>
+        <item>लोमड़ी</item>
+        <item>मेंढक</item>
+        <item>जिराफ़</item>
+        <item>बकरी</item>
+        <item>गिनी पिग</item>
+        <item>हिप्पो</item>
+        <item>हुपु</item>
+        <item>घोडा</item>
+        <item>बिज्जू</item>
+        <item>सिंह</item>
+        <item>बंदर</item>
+        <item>मच्छर</item>
+        <item>माउस</item>
+        <item>उल्लू</item>
+        <item>तोता</item>
+        <item>पेंगुइन</item>
+        <item>सुअर</item>
+        <item>कबूतर</item>
+        <item>पप्पी</item>
+        <item>चूहा</item>
+        <item>राइनो</item>
+        <item>मुरग़ा</item>
+        <item>गंगा-चिल्ली</item>
+        <item>सील</item>
+        <item>भेड़</item>
+        <item>नाग</item>
+        <item>तुर्की</item>
+        <item>वालरस</item>
+        <item>ह्वेल</item>
+        <item>भेड़िया</item>
+    </string-array>
+
+</resources>
+

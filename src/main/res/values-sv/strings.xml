@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Animal Sounds</string>
+    <string name="textview_home_hint">välkommen</string>
+    <string name="textview_home">Välkommen till Animal Noises</string>
+    <string name="home_pic">animaliska tongångar</string>
+    <string name="button_play">spela</string>
+    <string name="actionExit">Utgång</string>
+    <string name="action_previous">Föregående</string>
+    <string name="action_next">nästa</string>
+
+    <string name="title_template_step">Vilken buller gör </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">Välkommen</string>
+    <string name="title_screen_slide">Animal Sounds</string>
+    <string name="tapinfo">(tryck på för att spela upp ljud)</string>
+    <string name="make"> gör?</string>
+</resources>

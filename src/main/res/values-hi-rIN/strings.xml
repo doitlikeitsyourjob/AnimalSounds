@@ -1,0 +1,19 @@
+
+<resources>
+    <string name="app_name">जानवर लगता है</string>
+    <string name="textview_home_hint">वेलकम</string>
+    <string name="textview_home">जानवर शोर में आपका स्वागत है</string>
+    <string name="home_pic">पशु शोर</string>
+    <string name="button_play">प्ले</string>
+    <string name="actionExit">बाहर जाएं</string>
+    <string name="action_previous">प्रीवियस</string>
+    <string name="action_next">अगली</string>
+
+    <string name="title_template_step">क्या शोर करता है </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">वेलकम</string>
+    <string name="title_screen_slide">जानवर लगता है</string>
+    <string name="tapinfo">(ध्वनि खेलने के लिए नल)</string>
+    <string name="make"> मेक?</string>
+</resources>

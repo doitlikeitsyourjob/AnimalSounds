@@ -1,0 +1,19 @@
+﻿
+<resources>
+    <string name="app_name">hewan Suara</string>
+    <string name="textview_home_hint">selamat datang</string>
+    <string name="textview_home">Selamat Datang di Animal Suara</string>
+    <string name="home_pic">suara-suara binatang</string>
+    <string name="button_play">bermain</string>
+    <string name="actionExit">keluar</string>
+    <string name="action_previous">sebelumnya</string>
+    <string name="action_next">berikutnya</string>
+
+    <string name="title_template_step">Apa kebisingan yang  </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">selamat datang</string>
+    <string name="title_screen_slide">hewan Suara</string>
+    <string name="tapinfo">(tekan untuk memutar suara)</string>
+    <string name="make">  buat?</string>
+</resources>

@@ -1,0 +1,19 @@
+
+<resources>
+    <string name="app_name">Animal Sounds</string>
+    <string name="textview_home_hint">dobrodošli</string>
+    <string name="textview_home">Dobrodošli u životinja zvukove</string>
+    <string name="home_pic">životinjske zvukove</string>
+    <string name="button_play">igrati</string>
+    <string name="actionExit">Izlaz</string>
+    <string name="action_previous">prijašnji</string>
+    <string name="action_next">sljedeći</string>
+
+    <string name="title_template_step">Što se buke </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">dobrodošli</string>
+    <string name="title_screen_slide">Animal Sounds</string>
+    <string name="tapinfo">(dodirnite za reprodukciju zvuka)</string>
+    <string name="make"> napraviti?</string>
+</resources>

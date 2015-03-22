@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">sons d\'Animals</string>
+    <string name="textview_home_hint">benvinguda</string>
+    <string name="textview_home">Benvingut a Animal Noises</string>
+    <string name="home_pic">sorolls d\'animals</string>
+    <string name="button_play">jugar</string>
+    <string name="actionExit">sortida</string>
+    <string name="action_previous">anterior</string>
+    <string name="action_next">¡Següent</string>
+
+    <string name="title_template_step">Què soroll fa el </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">benvinguda</string>
+    <string name="title_screen_slide">sons d\'Animals</string>
+    <string name="tapinfo">(Toc per reproduir el so)</string>
+    <string name="make"> fer?</string>
+</resources>

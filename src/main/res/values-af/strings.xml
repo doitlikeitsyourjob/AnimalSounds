@@ -1,0 +1,19 @@
+
+<resources>
+    <string name="app_name">Animal Sounds</string>
+    <string name="textview_home_hint">welkom</string>
+    <string name="textview_home">Welkom by dieregeluide</string>
+    <string name="home_pic">dieregeluide</string>
+    <string name="button_play">speel</string>
+    <string name="actionExit">uitgang</string>
+    <string name="action_previous">vorige</string>
+    <string name="action_next">volgende</string>
+
+    <string name="title_template_step">Wat geraas maak die </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">Welkom</string>
+    <string name="title_screen_slide">Animal Sounds</string>
+    <string name="tapinfo">(tap klank om te speel)</string>
+    <string name="make"> !?</string>
+</resources>

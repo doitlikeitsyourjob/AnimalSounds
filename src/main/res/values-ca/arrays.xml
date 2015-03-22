@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>xiscle</item>
+        <item>grunyit</item>
+        <item>brunzit</item>
+        <item>tweet</item>
+        <item>esbufec</item>
+        <item>munch munch</item>
+        <item>grunyit</item>
+        <item>miolar</item>
+        <item>munch</item>
+        <item>piu piu</item>
+        <item>clo clo</item>
+        <item>mu</item>
+        <item>cruixit cruixit</item>
+        <item>grall</item>
+        <item>belar</item>
+        <item>rugit</item>
+        <item>guau</item>
+        <item>clic clic</item>
+        <item>haw ji</item>
+        <item>cuac cuac</item>
+        <item>trompeta</item>
+        <item>brunzit</item>
+        <item>xerrar</item>
+        <item>raucar</item>
+        <item>belar</item>
+        <item>belar</item>
+        <item>grinyol</item>
+        <item>esbufec</item>
+        <item>crit</item>
+        <item>renill</item>
+        <item>rialleta</item>
+        <item>rugit</item>
+        <item>ooh-ah-ah</item>
+        <item>brunzit</item>
+        <item>xiscle xiscle</item>
+        <item>xiulet del xiulet</item>
+        <item>negociacions</item>
+        <item>bram</item>
+        <item>esbufec</item>
+        <item>amanyac</item>
+        <item>gañido</item>
+        <item>grinyol</item>
+        <item>bram</item>
+        <item>cock-a-doodle</item>
+        <item>grall</item>
+        <item>anomenada</item>
+        <item>bel</item>
+        <item>xiuxiueig</item>
+        <item>engolir</item>
+        <item>gemec</item>
+        <item>cantar</item>
+        <item>udol</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>bat</item>
+        <item>suportar</item>
+        <item>abella</item>
+        <item>ocell</item>
+        <item>bou</item>
+        <item>conillet</item>
+        <item>camell</item>
+        <item>gat</item>
+        <item>eruga</item>
+        <item>pollet</item>
+        <item>pollastre</item>
+        <item>vaca</item>
+        <item>cricket</item>
+        <item>corb</item>
+        <item>cérvol</item>
+        <item>dinosaure</item>
+        <item>gos</item>
+        <item>dofí</item>
+        <item>ruc</item>
+        <item>ànec</item>
+        <item>elefant</item>
+        <item>volar</item>
+        <item>guineu</item>
+        <item>granota</item>
+        <item>girafa</item>
+        <item>cabra</item>
+        <item>conillet d\'Índies</item>
+        <item>hipopòtam</item>
+        <item>puput</item>
+        <item>cavall</item>
+        <item>hiena</item>
+        <item>lleó</item>
+        <item>mico</item>
+        <item>mosquit</item>
+        <item>ratolí</item>
+        <item>mussol</item>
+        <item>lloro</item>
+        <item>pingüí</item>
+        <item>porc</item>
+        <item>Paloma</item>
+        <item>cadell</item>
+        <item>rata</item>
+        <item>rinoceront</item>
+        <item>gall</item>
+        <item>gavina</item>
+        <item>segell</item>
+        <item>ovella</item>
+        <item>serp</item>
+        <item>gall dindi</item>
+        <item>morsa</item>
+        <item>balena</item>
+        <item>llop</item>
+    </string-array>
+
+</resources>
+

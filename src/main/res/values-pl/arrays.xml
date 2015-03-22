@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>pisk</item>
+        <item>ryk</item>
+        <item>brzęczenie</item>
+        <item>Tweet Tweet</item>
+        <item>parsknięcie</item>
+        <item>Munch Munch</item>
+        <item>chrząknięcie</item>
+        <item>miauczeć</item>
+        <item>chomp chomp</item>
+        <item>peep peep</item>
+        <item>gdakanie gdakanie</item>
+        <item>muczeć</item>
+        <item>skrzypienie skrzypienie</item>
+        <item>KAW KAW</item>
+        <item>beczeć</item>
+        <item>ryk</item>
+        <item>hau hau</item>
+        <item>kliknij kliknij</item>
+        <item>hee haw</item>
+        <item>kwak kwak</item>
+        <item>trąbka</item>
+        <item>brzęczenie</item>
+        <item>pogawędzić</item>
+        <item>rechot</item>
+        <item>beczeć</item>
+        <item>beczeć</item>
+        <item>pisk</item>
+        <item>parsknięcie</item>
+        <item>wydać okrzyk radości</item>
+        <item>rżenie</item>
+        <item>chichot</item>
+        <item>ryk</item>
+        <item>och-ach-ach</item>
+        <item>buczenie</item>
+        <item>pisk pisk</item>
+        <item>wycie wycie</item>
+        <item>rozmowy</item>
+        <item>ryczeć</item>
+        <item>parsknięcie</item>
+        <item>koo</item>
+        <item>skowyt</item>
+        <item>pisk</item>
+        <item>ryczeć</item>
+        <item>kogut doodle doo</item>
+        <item>skrzek</item>
+        <item>wezwanie</item>
+        <item>beczeć</item>
+        <item>syk</item>
+        <item>pożerać</item>
+        <item>jęczeć</item>
+        <item>śpiewać</item>
+        <item>wycie</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>nietoperz</item>
+        <item>miś</item>
+        <item>pszczoła</item>
+        <item>ptak</item>
+        <item>byk</item>
+        <item>królik</item>
+        <item>wielbłąd</item>
+        <item>kot</item>
+        <item>gąsienica</item>
+        <item>pisklę</item>
+        <item>kurczak</item>
+        <item>krowa</item>
+        <item>krykiet</item>
+        <item>wrona</item>
+        <item>jeleń</item>
+        <item>dinozaur</item>
+        <item>pies</item>
+        <item>delfin</item>
+        <item>osioł</item>
+        <item>kaczka</item>
+        <item>słoń</item>
+        <item>latać</item>
+        <item>lis</item>
+        <item>żaba</item>
+        <item>żyrafa</item>
+        <item>koza</item>
+        <item>świnka morska</item>
+        <item>hipopotam</item>
+        <item>dudek ptak</item>
+        <item>koń</item>
+        <item>hiena</item>
+        <item>lew</item>
+        <item>małpa</item>
+        <item>komar</item>
+        <item>mysz</item>
+        <item>sowa</item>
+        <item>papuga</item>
+        <item>pingwin</item>
+        <item>świnia</item>
+        <item>gołąb</item>
+        <item>szczeniak</item>
+        <item>szczur</item>
+        <item>nosorożec</item>
+        <item>kogut</item>
+        <item>mewa</item>
+        <item>uszczelka</item>
+        <item>owca</item>
+        <item>wąż</item>
+        <item>Turcja</item>
+        <item>mors</item>
+        <item>wieloryb</item>
+        <item>wilk</item>
+    </string-array>
+
+</resources>
+

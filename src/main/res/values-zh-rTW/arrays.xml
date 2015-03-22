@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>尖叫</item>
+        <item>嗥叫</item>
+        <item>蜂鳴器</item>
+        <item>鳴叫</item>
+        <item>哼</item>
+        <item>蒙克蒙克</item>
+        <item>咕嚕</item>
+        <item>喵</item>
+        <item>蒙克</item>
+        <item>偷看偷看</item>
+        <item>咕咕咕咕</item>
+        <item>哞</item>
+        <item>吱吱吱吱</item>
+        <item>啼</item>
+        <item>布萊特</item>
+        <item>怒吼</item>
+        <item>緯</item>
+        <item>點擊點擊</item>
+        <item>熙山楂</item>
+        <item>嘎嘎嘎嘎</item>
+        <item>喇叭</item>
+        <item>蜂鳴器</item>
+        <item>聊</item>
+        <item>發牢騷</item>
+        <item>布萊特</item>
+        <item>布萊特</item>
+        <item>吱</item>
+        <item>哼</item>
+        <item>呼叫聲</item>
+        <item>嘶</item>
+        <item>暗笑</item>
+        <item>怒吼</item>
+        <item>哦，啊，啊</item>
+        <item>哼</item>
+        <item>吱吱</item>
+        <item>叱叱</item>
+        <item>會談</item>
+        <item>嘶叫</item>
+        <item>哼</item>
+        <item>鴣鴣聲</item>
+        <item>狗吠</item>
+        <item>吱</item>
+        <item>怒吼</item>
+        <item>公雞一 - 塗鴉</item>
+        <item>發牢騷</item>
+        <item>通話</item>
+        <item>咩</item>
+        <item>嘶嘶聲</item>
+        <item>吞併</item>
+        <item>呻吟</item>
+        <item>唱</item>
+        <item>號叫</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>蝙蝠</item>
+        <item>熊</item>
+        <item>蜜蜂</item>
+        <item>鳥</item>
+        <item>公牛</item>
+        <item>兔子</item>
+        <item>駱駝</item>
+        <item>貓</item>
+        <item>毛蟲</item>
+        <item>小雞</item>
+        <item>雞</item>
+        <item>牛</item>
+        <item>板球</item>
+        <item>烏鴉</item>
+        <item>鹿</item>
+        <item>恐龍</item>
+        <item>狗</item>
+        <item>海豚</item>
+        <item>驢</item>
+        <item>鴨</item>
+        <item>象</item>
+        <item>飛</item>
+        <item>狐狸</item>
+        <item>青蛙</item>
+        <item>長頸鹿</item>
+        <item>山羊</item>
+        <item>豚鼠</item>
+        <item>河馬</item>
+        <item>戴勝</item>
+        <item>馬</item>
+        <item>鬣狗</item>
+        <item>獅子</item>
+        <item>猴子</item>
+        <item>蚊子</item>
+        <item>鼠標</item>
+        <item>貓頭鷹</item>
+        <item>鸚鵡</item>
+        <item>企鵝</item>
+        <item>豬</item>
+        <item>鴿子</item>
+        <item>小狗</item>
+        <item>鼠</item>
+        <item>犀牛</item>
+        <item>公雞</item>
+        <item>海鷗</item>
+        <item>密封</item>
+        <item>羊</item>
+        <item>蛇</item>
+        <item>火雞</item>
+        <item>海象</item>
+        <item>鯨魚</item>
+        <item>狼</item>
+    </string-array>
+
+</resources>
+

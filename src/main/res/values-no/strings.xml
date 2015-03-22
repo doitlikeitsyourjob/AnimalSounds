@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Animal Sounds</string>
+    <string name="textview_home_hint">velkommen</string>
+    <string name="textview_home">Velkommen til Animal Noises</string>
+    <string name="home_pic">dyrelyder</string>
+    <string name="button_play">spille</string>
+    <string name="actionExit">Utgang</string>
+    <string name="action_previous">Forrige</string>
+    <string name="action_next">neste</string>
+
+    <string name="title_template_step">Hva støy gjør </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">Velkommen</string>
+    <string name="title_screen_slide">Animal Sounds</string>
+    <string name="tapinfo">(trykk for å spille av lyd)</string>
+    <string name="make"> !?</string>
+</resources>

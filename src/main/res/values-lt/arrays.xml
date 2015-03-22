@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>žviegimas</item>
+        <item>urgzti</item>
+        <item>skambutis</item>
+        <item>Tweet</item>
+        <item>purkštauti</item>
+        <item>žiaumoti žiaumoti</item>
+        <item>kriuksėti</item>
+        <item>meow</item>
+        <item>žiaumoti</item>
+        <item>Žiūrėjimas Žiūrėjimas</item>
+        <item>Kwokać Kwokać</item>
+        <item>mykti</item>
+        <item>girgždėti girgždėti</item>
+        <item>kranksėti</item>
+        <item>bliauti</item>
+        <item>kriokimas</item>
+        <item>ataudai</item>
+        <item>spustelėkite spustelėkite</item>
+        <item>Hee haw</item>
+        <item>krykti krykti</item>
+        <item>trimitas</item>
+        <item>skambutis</item>
+        <item>kalbėtis</item>
+        <item>kvarksėjimas</item>
+        <item>bliauti</item>
+        <item>bliauti</item>
+        <item>girgždėti</item>
+        <item>purkštauti</item>
+        <item>rėkauti</item>
+        <item>žvengimas</item>
+        <item>kudakuoti</item>
+        <item>kriokimas</item>
+        <item>ooh-ah-ah</item>
+        <item>niekai</item>
+        <item>girgždėti girgždėti</item>
+        <item>alioti alioti</item>
+        <item>derybos</item>
+        <item>bliauti</item>
+        <item>purkštauti</item>
+        <item>nejau</item>
+        <item>ambryti</item>
+        <item>girgždėti</item>
+        <item>riaumoti</item>
+        <item>Gaidys--Doodle</item>
+        <item>klyksmas</item>
+        <item>kvietimas</item>
+        <item>bliauti</item>
+        <item>šnypštimas</item>
+        <item>čepsėti</item>
+        <item>dejuoti</item>
+        <item>dainuoti</item>
+        <item>staugti</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>šikšnosparnis</item>
+        <item>turėti</item>
+        <item>bitė</item>
+        <item>paukštis</item>
+        <item>jautis</item>
+        <item>triušelis</item>
+        <item>kupranugaris</item>
+        <item>katė</item>
+        <item>vikšras</item>
+        <item>viščiukas</item>
+        <item>vištiena</item>
+        <item>karvė</item>
+        <item>svirplys</item>
+        <item>varna</item>
+        <item>elnias</item>
+        <item>Dinozaurai</item>
+        <item>šuo</item>
+        <item>delfinas</item>
+        <item>asilas</item>
+        <item>antis</item>
+        <item>dramblys</item>
+        <item>skraidyti</item>
+        <item>lapė</item>
+        <item>varlė</item>
+        <item>žirafa</item>
+        <item>ožka</item>
+        <item>jūrų kiaulytė</item>
+        <item>hipopotamas</item>
+        <item>kukutis</item>
+        <item>arklys</item>
+        <item>hiena</item>
+        <item>liūtas</item>
+        <item>beždžionė</item>
+        <item>uodas</item>
+        <item>pelė</item>
+        <item>pelėda</item>
+        <item>papūga</item>
+        <item>pingvinas</item>
+        <item>kiaulė</item>
+        <item>karvelis</item>
+        <item>šuniukas</item>
+        <item>žiurkė</item>
+        <item>raganosis</item>
+        <item>gaidys</item>
+        <item>žuvėdra</item>
+        <item>tarpiklis</item>
+        <item>avis</item>
+        <item>gyvatė</item>
+        <item>Turkija</item>
+        <item>jūrų vėplys</item>
+        <item>banginis</item>
+        <item>vilkas</item>
+    </string-array>
+
+</resources>
+

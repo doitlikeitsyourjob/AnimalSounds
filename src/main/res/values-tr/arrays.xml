@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>gıcırdatmak</item>
+        <item>homurtu</item>
+        <item>vızıltı</item>
+        <item>tweet tweet</item>
+        <item>homurdanma</item>
+        <item>munch munch</item>
+        <item>hırıltı</item>
+        <item>miyav</item>
+        <item>munch</item>
+        <item>cik cik</item>
+        <item>cluck cluck</item>
+        <item>böğürme</item>
+        <item>gıcırtı gıcırtı</item>
+        <item>kaw kaw</item>
+        <item>melemek</item>
+        <item>kükreme</item>
+        <item>woof woof</item>
+        <item>\'ı tıklatın</item>
+        <item>hee kem küm</item>
+        <item>gak gak</item>
+        <item>trompet</item>
+        <item>vızıltı</item>
+        <item>sohbet</item>
+        <item>gaklamak</item>
+        <item>melemek</item>
+        <item>melemek</item>
+        <item>gıcırtı</item>
+        <item>homurdanma</item>
+        <item>bağırtı</item>
+        <item>kişnemek</item>
+        <item>kıkırdama</item>
+        <item>kükreme</item>
+        <item>ooh-ah-ah</item>
+        <item>uğultu</item>
+        <item>gıcırtı gıcırtı</item>
+        <item>yuh yuh</item>
+        <item>görüşmeler</item>
+        <item>anırma</item>
+        <item>homurdanma</item>
+        <item>koo</item>
+        <item>havlama</item>
+        <item>gıcırtı</item>
+        <item>feryat</item>
+        <item>Bir doodle doo horoz</item>
+        <item>şikâyet</item>
+        <item>çağrı</item>
+        <item>melemek</item>
+        <item>tıslama</item>
+        <item>silip süpürmek</item>
+        <item>inilti</item>
+        <item>şarkı söylemek</item>
+        <item>feryat</item>
+    </string-array>
+
+    <string-array name="animaltext">
+        <item>yarasa</item>
+        <item>Bear</item>
+        <item>arı</item>
+        <item>kuş</item>
+        <item>boğa</item>
+        <item>tavşan</item>
+        <item>deve</item>
+        <item>kedi</item>
+        <item>tırtıl</item>
+        <item>civciv</item>
+        <item>tavuk</item>
+        <item>inek</item>
+        <item>kriket</item>
+        <item>karga</item>
+        <item>geyik</item>
+        <item>dinozor</item>
+        <item>köpek</item>
+        <item>yunus</item>
+        <item>eşek</item>
+        <item>ördek</item>
+        <item>fil</item>
+        <item>uçmak</item>
+        <item>tilki</item>
+        <item>kurbağa</item>
+        <item>zürafa</item>
+        <item>keçi</item>
+        <item>kobay</item>
+        <item>suaygırı</item>
+        <item>ibibik</item>
+        <item>at</item>
+        <item>sırtlan</item>
+        <item>aslan</item>
+        <item>maymun</item>
+        <item>sivrisinek</item>
+        <item>fare</item>
+        <item>baykuş</item>
+        <item>papağan</item>
+        <item>penguen</item>
+        <item>domuz</item>
+        <item>güvercin</item>
+        <item>köpek yavrusu</item>
+        <item>sıçan</item>
+        <item>gergedan</item>
+        <item>horoz</item>
+        <item>martı</item>
+        <item>mühür</item>
+        <item>koyun</item>
+        <item>yılan</item>
+        <item>türkiye</item>
+        <item>mors</item>
+        <item>balina</item>
+        <item>kurt</item>
+    </string-array>
+
+</resources>

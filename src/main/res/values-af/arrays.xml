@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>skree</item>
+        <item>grom</item>
+        <item>buzz</item>
+        <item>tweet</item>
+        <item>snuif</item>
+        <item>Munch Munch</item>
+        <item>grunt</item>
+        <item>miaau</item>
+        <item>Munch</item>
+        <item>loer loer</item>
+        <item>kloek kloek</item>
+        <item>moo</item>
+        <item>kraak kraak</item>
+        <item>caw</item>
+        <item>balke</item>
+        <item>brul</item>
+        <item>inslag</item>
+        <item>kliek</item>
+        <item>hee Haw</item>
+        <item>kwak kwak</item>
+        <item>trompet</item>
+        <item>buzz</item>
+        <item>gesels</item>
+        <item>gekwaak</item>
+        <item>balke</item>
+        <item>balke</item>
+        <item>piep</item>
+        <item>snuif</item>
+        <item>whoop</item>
+        <item>runnik</item>
+        <item>laggie</item>
+        <item>brul</item>
+        <item>ooh-ah-ah</item>
+        <item>hum</item>
+        <item>piep piep</item>
+        <item>toet toet</item>
+        <item>gesprekke</item>
+        <item>Bray</item>
+        <item>snuif</item>
+        <item>koer</item>
+        <item>Yelp</item>
+        <item>piep</item>
+        <item>geloei</item>
+        <item>haan-a-doodle</item>
+        <item>voëls kreet</item>
+        <item>oproep</item>
+        <item>baa</item>
+        <item>spot</item>
+        <item>vreet</item>
+        <item>kla</item>
+        <item>sing</item>
+        <item>huil</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>kolf</item>
+        <item>dra</item>
+        <item>bee</item>
+        <item>voël</item>
+        <item>bul</item>
+        <item>bunny</item>
+        <item>kameel</item>
+        <item>kat</item>
+        <item>ruspe</item>
+        <item>chick</item>
+        <item>hoender</item>
+        <item>koei</item>
+        <item>krieket</item>
+        <item>kraai</item>
+        <item>takbokke</item>
+        <item>dinosourus</item>
+        <item>hond</item>
+        <item>dolfyn</item>
+        <item>donkie</item>
+        <item>eend</item>
+        <item>olifant</item>
+        <item>vlieg</item>
+        <item>jakkals</item>
+        <item>kikker</item>
+        <item>kameelperd</item>
+        <item>bok</item>
+        <item>marmot</item>
+        <item>seekoei</item>
+        <item>hoep</item>
+        <item>perd</item>
+        <item>hiëna</item>
+        <item>leeu</item>
+        <item>aap</item>
+        <item>muskiet</item>
+        <item>muis</item>
+        <item>uil</item>
+        <item>papegaai</item>
+        <item>pikkewyn</item>
+        <item>vark</item>
+        <item>duif</item>
+        <item>hondjie</item>
+        <item>rat</item>
+        <item>renosters</item>
+        <item>haan</item>
+        <item>seagull</item>
+        <item>seël</item>
+        <item>skape</item>
+        <item>slang</item>
+        <item>Turkye</item>
+        <item>walrus</item>
+        <item>walvis</item>
+        <item>wolf</item>
+    </string-array>
+
+</resources>
+
+

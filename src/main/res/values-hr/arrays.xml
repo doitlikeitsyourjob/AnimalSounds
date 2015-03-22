@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>vrisak</item>
+        <item>režanje</item>
+        <item>vijesti</item>
+        <item>cvrkut</item>
+        <item>smijati</item>
+        <item>Munch Munch</item>
+        <item>roktati</item>
+        <item>mijau</item>
+        <item>Munch</item>
+        <item>peep peep</item>
+        <item>kokodakanje kokodakanje</item>
+        <item>mukanje</item>
+        <item>škripa škripa</item>
+        <item>gakanje</item>
+        <item>blejati</item>
+        <item>rika</item>
+        <item>vau</item>
+        <item>klik Klik</item>
+        <item>Hee Haw</item>
+        <item>šarlatan šarlatan</item>
+        <item>truba</item>
+        <item>vijesti</item>
+        <item>razgovor</item>
+        <item>kreštanje</item>
+        <item>blejati</item>
+        <item>blejati</item>
+        <item>škripa</item>
+        <item>smijati</item>
+        <item>poklič</item>
+        <item>vrisak</item>
+        <item>cerekanje</item>
+        <item>rika</item>
+        <item>Ooh-ah-ah</item>
+        <item>pjevušiti</item>
+        <item>cika cika</item>
+        <item>izviždati izviždati</item>
+        <item>razgovori</item>
+        <item>njakanje</item>
+        <item>smijati</item>
+        <item>gugutati</item>
+        <item>cviliti</item>
+        <item>škripa</item>
+        <item>rika</item>
+        <item>cock-a-doodle</item>
+        <item>vrisnuti</item>
+        <item>poziv</item>
+        <item>blejati</item>
+        <item>siktanje</item>
+        <item>dograbiti</item>
+        <item>jaukati</item>
+        <item>pjevati</item>
+        <item>urlik</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>šišmiš</item>
+        <item>medvjed</item>
+        <item>pčela</item>
+        <item>ptica</item>
+        <item>bik</item>
+        <item>zeka</item>
+        <item>deva</item>
+        <item>mačka</item>
+        <item>gusjenica</item>
+        <item>pile</item>
+        <item>piletina</item>
+        <item>krava</item>
+        <item>kriket</item>
+        <item>vrana</item>
+        <item>jelen</item>
+        <item>dinosaurus</item>
+        <item>pas</item>
+        <item>dupin</item>
+        <item>magarac</item>
+        <item>patka</item>
+        <item>slon</item>
+        <item>letjeti</item>
+        <item>lisica</item>
+        <item>žaba</item>
+        <item>žirafa</item>
+        <item>koza</item>
+        <item>zamorče</item>
+        <item>konj</item>
+        <item>pupavac</item>
+        <item>konj</item>
+        <item>hijena</item>
+        <item>lav</item>
+        <item>majmun</item>
+        <item>komarac</item>
+        <item>miš</item>
+        <item>sova</item>
+        <item>papiga</item>
+        <item>pingvin</item>
+        <item>svinja</item>
+        <item>golub</item>
+        <item>štene</item>
+        <item>štakor</item>
+        <item>nosorog</item>
+        <item>pijetao</item>
+        <item>galeb</item>
+        <item>pečat</item>
+        <item>ovaca</item>
+        <item>zmija</item>
+        <item>Turska</item>
+        <item>morž</item>
+        <item>kit</item>
+        <item>vuk</item>
+    </string-array>
+
+</resources>
+

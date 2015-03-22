@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>врисак</item>
+        <item>режање</item>
+        <item>зујање</item>
+        <item>цвркут</item>
+        <item>фрктање</item>
+        <item>Мунцх Мунцх</item>
+        <item>гроктај</item>
+        <item>мијаук</item>
+        <item>Мунцх</item>
+        <item>пееп пееп</item>
+        <item>Цлуцк Цлуцк</item>
+        <item>мукање</item>
+        <item>шкрипа шкрипа</item>
+        <item>гакати</item>
+        <item>блејање</item>
+        <item>урлик</item>
+        <item>потка</item>
+        <item>Цлицк Цлицк</item>
+        <item>Хее Хав</item>
+        <item>Куацк Куацк</item>
+        <item>труба</item>
+        <item>зујање</item>
+        <item>ћаскање</item>
+        <item>грактати</item>
+        <item>блејање</item>
+        <item>блејање</item>
+        <item>шкрипа</item>
+        <item>фрктање</item>
+        <item>поклич</item>
+        <item>њиштати</item>
+        <item>церекање</item>
+        <item>урлик</item>
+        <item>ох-ах-ах</item>
+        <item>зујати</item>
+        <item>скуеак скуеак</item>
+        <item>мангуп мангуп</item>
+        <item>Разговори</item>
+        <item>њакати</item>
+        <item>фрктање</item>
+        <item>тепати</item>
+        <item>заштектати</item>
+        <item>шкрипа</item>
+        <item>испод</item>
+        <item>пенис-доодле-</item>
+        <item>врисак</item>
+        <item>позив</item>
+        <item>блејање</item>
+        <item>сиктање</item>
+        <item>дограбити</item>
+        <item>јаук</item>
+        <item>певати</item>
+        <item>урлик</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>шишмиш</item>
+        <item>сносити</item>
+        <item>пчела</item>
+        <item>птица</item>
+        <item>бик</item>
+        <item>зека</item>
+        <item>камила</item>
+        <item>мачка</item>
+        <item>гусеница</item>
+        <item>пиле</item>
+        <item>пилетина</item>
+        <item>крава</item>
+        <item>крикет</item>
+        <item>врана</item>
+        <item>јелен</item>
+        <item>диносаурус</item>
+        <item>пас</item>
+        <item>делфин</item>
+        <item>магарац</item>
+        <item>патка</item>
+        <item>слон</item>
+        <item>летети</item>
+        <item>лисица</item>
+        <item>жаба</item>
+        <item>жирафа</item>
+        <item>коза</item>
+        <item>заморче</item>
+        <item>нилски коњ</item>
+        <item>пупавац</item>
+        <item>коњ</item>
+        <item>хијена</item>
+        <item>лав</item>
+        <item>мајмун</item>
+        <item>комарац</item>
+        <item>миш</item>
+        <item>сова</item>
+        <item>папагај</item>
+        <item>пингвин</item>
+        <item>свиња</item>
+        <item>голуб</item>
+        <item>штене</item>
+        <item>пацов</item>
+        <item>носорог</item>
+        <item>петао</item>
+        <item>галеб</item>
+        <item>печат</item>
+        <item>овца</item>
+        <item>змија</item>
+        <item>Турска</item>
+        <item>морж</item>
+        <item>кит</item>
+        <item>вук</item>
+    </string-array>
+
+</resources>
+
+

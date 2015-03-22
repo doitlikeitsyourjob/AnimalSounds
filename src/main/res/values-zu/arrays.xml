@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>screech</item>
+        <item>growl</item>
+        <item>buzz</item>
+        <item>tweet</item>
+        <item>ziyathimula</item>
+        <item>Munch Munch</item>
+        <item>ibhodle</item>
+        <item>MEOW</item>
+        <item>Munch</item>
+        <item>ukulunguza ukulunguza</item>
+        <item>Cluck Cluck</item>
+        <item>moo</item>
+        <item>creak creak</item>
+        <item>Caw</item>
+        <item>bleat</item>
+        <item>ukubhonga</item>
+        <item>evundlile</item>
+        <item>uchofoze qhafaza</item>
+        <item>hee haw</item>
+        <item>onguwaka onguwaka</item>
+        <item>icilongo</item>
+        <item>buzz</item>
+        <item>uxoxe</item>
+        <item>croak</item>
+        <item>bleat</item>
+        <item>bleat</item>
+        <item>klwiklwiza</item>
+        <item>ziyathimula</item>
+        <item>Whoop</item>
+        <item>neigh</item>
+        <item>chuckle</item>
+        <item>ukubhonga</item>
+        <item>Ooh-ah ah-</item>
+        <item>hum</item>
+        <item>klwiklwiza klwiklwiza</item>
+        <item>hoot hoot</item>
+        <item>izingxoxo</item>
+        <item>Bray</item>
+        <item>ziyathimula</item>
+        <item>COO</item>
+        <item>Yelp</item>
+        <item>klwiklwiza</item>
+        <item>zibhonge</item>
+        <item>iqhude-a-doodle</item>
+        <item>squawk</item>
+        <item>call</item>
+        <item>baa</item>
+        <item>khisila</item>
+        <item>Gobble</item>
+        <item>ukububula</item>
+        <item>sing</item>
+        <item>nihewule</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>bat</item>
+        <item>athwale</item>
+        <item>bee</item>
+        <item>bird</item>
+        <item>bull</item>
+        <item>bunny</item>
+        <item>camel</item>
+        <item>cat</item>
+        <item>isibungu</item>
+        <item>chick</item>
+        <item>inyama yenkukhu</item>
+        <item>cow</item>
+        <item>cricket</item>
+        <item>crow</item>
+        <item>deer</item>
+        <item>dinosaur</item>
+        <item>inja</item>
+        <item>dolphin</item>
+        <item>imbongolo</item>
+        <item>idada</item>
+        <item>elephant</item>
+        <item>fly</item>
+        <item>fox</item>
+        <item>frog</item>
+        <item>indlulamithi</item>
+        <item>imbuzi</item>
+        <item>Guinea Pig</item>
+        <item>imvubu</item>
+        <item>noziningweni</item>
+        <item>horse</item>
+        <item>impisi</item>
+        <item>lion</item>
+        <item>monkey</item>
+        <item>umiyane</item>
+        <item>mouse</item>
+        <item>owl</item>
+        <item>parrot</item>
+        <item>penguin</item>
+        <item>ingulube</item>
+        <item>ijuba</item>
+        <item>puppy</item>
+        <item>rat</item>
+        <item>obhejane</item>
+        <item>rooster</item>
+        <item>seagull</item>
+        <item>seal</item>
+        <item>izimvu</item>
+        <item>snake</item>
+        <item>igalikuni</item>
+        <item>isilwane sasolwandle esikwaziyo futhi ukuphila ngaphandle ezweni esinamazinyo azingxavula</item>
+        <item>whale</item>
+        <item>wolf</item>
+    </string-array>
+
+</resources>
+

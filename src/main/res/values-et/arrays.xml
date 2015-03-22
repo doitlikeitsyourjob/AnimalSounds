@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>kriiskama</item>
+        <item>urisemine</item>
+        <item>sumisema</item>
+        <item>piiksuma</item>
+        <item>pruuskama</item>
+        <item>Munch Munch</item>
+        <item>uriseja</item>
+        <item>näugumine</item>
+        <item>Munchi</item>
+        <item>peep peep</item>
+        <item>loksuma loksuma</item>
+        <item>ammuma</item>
+        <item>kriuks kriuks</item>
+        <item>kraaks</item>
+        <item>määgima</item>
+        <item>müha</item>
+        <item>kõmisema</item>
+        <item>Klõpsatakse</item>
+        <item>hee huu</item>
+        <item>prääks prääks</item>
+        <item>trompet</item>
+        <item>sumisema</item>
+        <item>vestlus</item>
+        <item>krooks</item>
+        <item>määgima</item>
+        <item>määgima</item>
+        <item>kriuksuma</item>
+        <item>pruuskama</item>
+        <item>hõiskama</item>
+        <item>hirnatus</item>
+        <item>itsitama</item>
+        <item>müha</item>
+        <item>ooh-ah-ah</item>
+        <item>ümin</item>
+        <item>kriuksuma kriuksuma</item>
+        <item>huilgama huilgama</item>
+        <item>läbirääkimised</item>
+        <item>kisama</item>
+        <item>pruuskama</item>
+        <item>coo</item>
+        <item>kiunuma</item>
+        <item>kriuksuma</item>
+        <item>röökima</item>
+        <item>kukk--Doodle</item>
+        <item>kisa</item>
+        <item>üleskutse</item>
+        <item>määgima</item>
+        <item>susisema</item>
+        <item>ahmima</item>
+        <item>soiguma</item>
+        <item>laulma</item>
+        <item>ulguma</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>nahkhiir</item>
+        <item>kandma</item>
+        <item>mesilane</item>
+        <item>lind</item>
+        <item>sõnn</item>
+        <item>bunny</item>
+        <item>kaamel</item>
+        <item>kass</item>
+        <item>röövik</item>
+        <item>tibu</item>
+        <item>kanaliha</item>
+        <item>lehm</item>
+        <item>kriket</item>
+        <item>vares</item>
+        <item>hirv</item>
+        <item>dinosaurus</item>
+        <item>koer</item>
+        <item>delfiin</item>
+        <item>eesel</item>
+        <item>part</item>
+        <item>elevant</item>
+        <item>lendama</item>
+        <item>rebane</item>
+        <item>konn</item>
+        <item>kaelkirjak</item>
+        <item>kits</item>
+        <item>merisiga</item>
+        <item>jõehobu</item>
+        <item>laanekägu</item>
+        <item>hobune</item>
+        <item>hüään</item>
+        <item>lõvi</item>
+        <item>ahv</item>
+        <item>sääsk</item>
+        <item>hiir</item>
+        <item>öökull</item>
+        <item>papagoi</item>
+        <item>pingviin</item>
+        <item>siga</item>
+        <item>tuvi</item>
+        <item>kutsikas</item>
+        <item>rott</item>
+        <item>kõlisev münt</item>
+        <item>kukk</item>
+        <item>kajakas</item>
+        <item>pitsat</item>
+        <item>lammas</item>
+        <item>madu</item>
+        <item>Türgi</item>
+        <item>morsk</item>
+        <item>vaal</item>
+        <item>hunt</item>
+    </string-array>
+
+</resources>
+

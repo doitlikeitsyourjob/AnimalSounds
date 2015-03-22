@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>尖叫</item>
+        <item>嗥叫</item>
+        <item>蜂鸣器</item>
+        <item>唧啾</item>
+        <item>哼</item>
+        <item>蒙克蒙克</item>
+        <item>咕噜</item>
+        <item>喵</item>
+        <item>格格格格</item>
+        <item>偷看偷看</item>
+        <item>咕咕咕咕</item>
+        <item>哞</item>
+        <item>吱吱吱吱</item>
+        <item>KAW KAW</item>
+        <item>布莱特</item>
+        <item>怒吼</item>
+        <item>纬纬</item>
+        <item>点击点击</item>
+        <item>熙山楂</item>
+        <item>嘎嘎嘎嘎</item>
+        <item>喇叭</item>
+        <item>蜂鸣器</item>
+        <item>聊</item>
+        <item>发牢骚</item>
+        <item>布莱特</item>
+        <item>布莱特</item>
+        <item>吱</item>
+        <item>哼</item>
+        <item>呼叫声</item>
+        <item>嘶</item>
+        <item>暗笑</item>
+        <item>怒吼</item>
+        <item>哦，啊，啊</item>
+        <item>哼</item>
+        <item>吱吱</item>
+        <item>叱叱</item>
+        <item>会谈</item>
+        <item>嘶叫</item>
+        <item>哼</item>
+        <item>鸪鸪声</item>
+        <item>狗吠</item>
+        <item>吱</item>
+        <item>怒吼</item>
+        <item>公鸡涂鸦斗</item>
+        <item>发牢骚</item>
+        <item>通话</item>
+        <item>咩咩</item>
+        <item>嘶嘶声</item>
+        <item>吞并</item>
+        <item>呻吟</item>
+        <item>唱</item>
+        <item>号叫</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>蝙蝠</item>
+        <item>熊</item>
+        <item>蜜蜂</item>
+        <item>鸟</item>
+        <item>公牛</item>
+        <item>兔子</item>
+        <item>骆驼</item>
+        <item>猫</item>
+        <item>毛虫</item>
+        <item>小鸡</item>
+        <item>鸡</item>
+        <item>牛</item>
+        <item>板球</item>
+        <item>乌鸦</item>
+        <item>鹿</item>
+        <item>恐龙</item>
+        <item>狗</item>
+        <item>海豚</item>
+        <item>驴</item>
+        <item>鸭</item>
+        <item>象</item>
+        <item>飞</item>
+        <item>狐狸</item>
+        <item>青蛙</item>
+        <item>长颈鹿</item>
+        <item>山羊</item>
+        <item>豚鼠</item>
+        <item>河马</item>
+        <item>戴胜</item>
+        <item>马</item>
+        <item>鬣狗</item>
+        <item>狮子</item>
+        <item>猴子</item>
+        <item>蚊子</item>
+        <item>鼠标</item>
+        <item>猫头鹰</item>
+        <item>鹦鹉</item>
+        <item>企鹅</item>
+        <item>猪</item>
+        <item>鸽子</item>
+        <item>小狗</item>
+        <item>鼠</item>
+        <item>犀牛</item>
+        <item>公鸡</item>
+        <item>海鸥</item>
+        <item>密封</item>
+        <item>羊</item>
+        <item>蛇</item>
+        <item>火鸡</item>
+        <item>海象</item>
+        <item>鲸鱼</item>
+        <item>狼</item>
+    </string-array>
+
+</resources>
+

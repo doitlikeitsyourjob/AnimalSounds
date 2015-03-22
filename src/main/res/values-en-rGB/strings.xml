@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Animal Sounds</string>
+    <string name="textview_home_hint">welcome</string>
+    <string name="textview_home">Welcome to Animal Noises</string>
+    <string name="home_pic">animal noises</string>
+    <string name="button_play">Play</string>
+    <string name="actionExit">Exit</string>
+    <string name="action_previous">Previous</string>
+    <string name="action_next">Next</string>
+
+    <string name="title_template_step">What noise does the </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">Welcome</string>
+    <string name="title_screen_slide">Animal Sounds</string>
+    <string name="tapinfo">(tap to play sound)</string>
+    <string name="make"> make ?</string>
+</resources>

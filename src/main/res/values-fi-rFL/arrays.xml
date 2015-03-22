@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>kirkua</item>
+        <item>murina</item>
+        <item>sirinä</item>
+        <item>piipittää</item>
+        <item>tuhahtaa</item>
+        <item>munch munch</item>
+        <item>murahdus</item>
+        <item>miau</item>
+        <item>munch</item>
+        <item>peep peep</item>
+        <item>cluck cluck</item>
+        <item>ammua</item>
+        <item>narina narina</item>
+        <item>raakkuminen</item>
+        <item>ruikuttaa</item>
+        <item>karjunta</item>
+        <item>hau</item>
+        <item>klikkaa Klikkaa</item>
+        <item>hee haw</item>
+        <item>Quack</item>
+        <item>trumpetti</item>
+        <item>sirinä</item>
+        <item>jutella</item>
+        <item>raakkuminen</item>
+        <item>ruikuttaa</item>
+        <item>ruikuttaa</item>
+        <item>kitistä</item>
+        <item>tuhahtaa</item>
+        <item>huuto</item>
+        <item>hirnahdus</item>
+        <item>hihittää</item>
+        <item>karjunta</item>
+        <item>ooh-ah-ah</item>
+        <item>hyminä</item>
+        <item>kitistä kitistä</item>
+        <item>hoot viheltää</item>
+        <item>neuvottelut</item>
+        <item>kiljua</item>
+        <item>tuhahtaa</item>
+        <item>kujertaa</item>
+        <item>älähtää</item>
+        <item>kitistä</item>
+        <item>karjua</item>
+        <item>kukko--doodle</item>
+        <item>rääkäisy</item>
+        <item>puhelu</item>
+        <item>määkiä</item>
+        <item>sihahtaa</item>
+        <item>ahmaista</item>
+        <item>vaikerrus</item>
+        <item>laulaa</item>
+        <item>ulvoa</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>lepakko</item>
+        <item>karhu</item>
+        <item>mehiläinen</item>
+        <item>lintu</item>
+        <item>sonni</item>
+        <item>pupu</item>
+        <item>kameli</item>
+        <item>kissa</item>
+        <item>toukka</item>
+        <item>tipu</item>
+        <item>kana</item>
+        <item>lehmä</item>
+        <item>kriketti</item>
+        <item>varis</item>
+        <item>hirvi</item>
+        <item>dinosaurus</item>
+        <item>koira</item>
+        <item>delfiini</item>
+        <item>aasi</item>
+        <item>ankka</item>
+        <item>norsu</item>
+        <item>lentää</item>
+        <item>kettu</item>
+        <item>sammakko</item>
+        <item>kirahvi</item>
+        <item>vuohi</item>
+        <item>marsu</item>
+        <item>virtahepo</item>
+        <item>harjalintu</item>
+        <item>hevonen</item>
+        <item>hyeena</item>
+        <item>leijona</item>
+        <item>apina</item>
+        <item>hyttynen</item>
+        <item>hiiri</item>
+        <item>pöllö</item>
+        <item>papukaija</item>
+        <item>pingviini</item>
+        <item>sika</item>
+        <item>kyyhkynen</item>
+        <item>pentu</item>
+        <item>rotta</item>
+        <item>sarvikuono</item>
+        <item>kukko</item>
+        <item>lokki</item>
+        <item>tiiviste</item>
+        <item>lammas</item>
+        <item>käärme</item>
+        <item>kalkkuna</item>
+        <item>mursu</item>
+        <item>valas</item>
+        <item>susi</item>
+    </string-array>
+
+</resources>
+

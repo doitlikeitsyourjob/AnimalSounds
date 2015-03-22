@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Animal Sounds</string>
+    <string name="textview_home_hint">hoan nghênh</string>
+    <string name="textview_home">Chào mừng bạn đến Animal Noises</string>
+    <string name="home_pic">tiếng ồn động vật</string>
+    <string name="button_play">chơi</string>
+    <string name="actionExit">lối ra</string>
+    <string name="action_previous">trước</string>
+    <string name="action_next">tới</string>
+
+    <string name="title_template_step">Tiếng ồn Gì </string>
+
+    <string name="action_bar_splash">doitlikeitsyourjob ltd</string>
+    <string name="action_bar_title">Chào mừng</string>
+    <string name="title_screen_slide">Animal Sounds</string>
+    <string name="tapinfo">(bấm để chơi âm thanh)</string>
+    <string name="make"> thực hiện?</string>
+</resources>

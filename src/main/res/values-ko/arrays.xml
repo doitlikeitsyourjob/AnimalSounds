@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>삐걱 삐걱하는 소리</item>
+        <item>으르렁 거리는 소리</item>
+        <item>버즈</item>
+        <item>짹짹 짹짹</item>
+        <item>흡입</item>
+        <item>뭉크 뭉크</item>
+        <item>툴툴 거리는 소리</item>
+        <item>야옹</item>
+        <item>씹는의 씹는</item>
+        <item>관음증 관음증</item>
+        <item>꼬꼬 우는 소리의 꼬꼬 우는 소리</item>
+        <item>음매</item>
+        <item>삐걱 거리는 소리 삐걱 거리는 소리</item>
+        <item>카우 카우의</item>
+        <item>우는 소리</item>
+        <item>으르렁 거리는 소리</item>
+        <item>으릉 으릉</item>
+        <item>클릭 클릭</item>
+        <item>헤 산사 나무의 열매</item>
+        <item>꽥 꽥</item>
+        <item>트럼펫</item>
+        <item>버즈</item>
+        <item>잡담</item>
+        <item>까악 까악 우는 소리</item>
+        <item>우는 소리</item>
+        <item>우는 소리</item>
+        <item>찍찍 소리를 내다</item>
+        <item>흡입</item>
+        <item>만들어 내다</item>
+        <item>울음 소리</item>
+        <item>킬킬 웃음</item>
+        <item>으르렁 거리는 소리</item>
+        <item>우 - 아 - 아</item>
+        <item>험</item>
+        <item>찍찍 찍찍</item>
+        <item>우웩 우웩</item>
+        <item>회담</item>
+        <item>시끄러운 소리를 내다</item>
+        <item>흡입</item>
+        <item>쿠 쿠</item>
+        <item>큰소리로 말하다</item>
+        <item>찍찍 소리를 내다</item>
+        <item>울부 짖는 소리</item>
+        <item>꼬꼬</item>
+        <item>고자질하다</item>
+        <item>전화</item>
+        <item>매</item>
+        <item>쉿하는 소리를 내다</item>
+        <item>펠라티오</item>
+        <item>신음 소리</item>
+        <item>노래</item>
+        <item>멀리서 짖는 소리</item>
+    </string-array>
+
+    <string-array name="animaltext">
+        <item>박쥐</item>
+        <item>곰</item>
+        <item>꿀벌</item>
+        <item>새</item>
+        <item>황소</item>
+        <item>토끼</item>
+        <item>낙타</item>
+        <item>고양이</item>
+        <item>무한 궤도</item>
+        <item>병아리</item>
+        <item>닭</item>
+        <item>암소</item>
+        <item>크리켓</item>
+        <item>까마귀</item>
+        <item>사슴</item>
+        <item>공룡</item>
+        <item>개</item>
+        <item>돌고래</item>
+        <item>당나귀</item>
+        <item>오리</item>
+        <item>코끼리</item>
+        <item>파리</item>
+        <item>여우</item>
+        <item>개구리</item>
+        <item>기린</item>
+        <item>염소</item>
+        <item>기니피그</item>
+        <item>하마</item>
+        <item>후투티</item>
+        <item>말</item>
+        <item>하이에나</item>
+        <item>사자</item>
+        <item>원숭이</item>
+        <item>모기</item>
+        <item>마우스</item>
+        <item>올빼미</item>
+        <item>앵무새</item>
+        <item>펭귄</item>
+        <item>돼지</item>
+        <item>비둘기</item>
+        <item>강아지</item>
+        <item>쥐</item>
+        <item>코뿔소</item>
+        <item>수탉</item>
+        <item>갈매기</item>
+        <item>실</item>
+        <item>양</item>
+        <item>뱀</item>
+        <item>터키</item>
+        <item>해마</item>
+        <item>고래</item>
+        <item>늑대</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>לִצווֹחַ</item>
+        <item>לְהִתְנַהֵם</item>
+        <item>באז</item>
+        <item>צִיוּץ</item>
+        <item>נְחִירָה</item>
+        <item>ללעוס ללעוס</item>
+        <item>לִנְחוֹר</item>
+        <item>מִיָאוּ</item>
+        <item>ללעוס</item>
+        <item>ציוץ ציוץ</item>
+        <item>לקרקר לקרקר</item>
+        <item>גְעִיָה</item>
+        <item>חריקת חריקה</item>
+        <item>CAW</item>
+        <item>פְּעִי</item>
+        <item>שאגה</item>
+        <item>עֵרֶב</item>
+        <item>לחץ על לחץ</item>
+        <item>האו hee</item>
+        <item>אליל אליל</item>
+        <item>חצוצרה</item>
+        <item>באז</item>
+        <item>צ\'אט</item>
+        <item>קִרקוּר</item>
+        <item>פְּעִי</item>
+        <item>פְּעִי</item>
+        <item>חֲרִיקָה</item>
+        <item>נְחִירָה</item>
+        <item>קְרִיאָה</item>
+        <item>לִצְהוֹל</item>
+        <item>צִחקוּק</item>
+        <item>שאגה</item>
+        <item>אוו-אה-אה</item>
+        <item>זמזום</item>
+        <item>ציוץ ציוץ</item>
+        <item>לשרוק לשרוק</item>
+        <item>שיחות</item>
+        <item>נְהָקָה</item>
+        <item>נְחִירָה</item>
+        <item>סמנכ"ל תפעול</item>
+        <item>לְיַלֵל</item>
+        <item>חֲרִיקָה</item>
+        <item>לִגעוֹת</item>
+        <item>זין--שרבוט</item>
+        <item>לְקַעֲקֵעַ</item>
+        <item>שיחה</item>
+        <item>לִגעוֹת</item>
+        <item>צִפצוּף</item>
+        <item>לְקַעֲקֵעַ</item>
+        <item>אֲנָקָה</item>
+        <item>לשיר</item>
+        <item>יְלָלָה</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>מחבט</item>
+        <item>לשאת</item>
+        <item>דבורה</item>
+        <item>ציפור</item>
+        <item>שור</item>
+        <item>ארנב</item>
+        <item>גמל</item>
+        <item>חתול</item>
+        <item>זַחַל</item>
+        <item>חומוס</item>
+        <item>עוף</item>
+        <item>פרה</item>
+        <item>קריקט</item>
+        <item>עורב</item>
+        <item>צבי</item>
+        <item>דינוזאור</item>
+        <item>כלב</item>
+        <item>דולפין</item>
+        <item>חמור</item>
+        <item>ברווז</item>
+        <item>פיל</item>
+        <item>לעוף</item>
+        <item>שועל</item>
+        <item>צפרדע</item>
+        <item>ג\'ִירָפָה</item>
+        <item>עז</item>
+        <item>קַביָה</item>
+        <item>היפופוטם</item>
+        <item>דוּכִיפַת</item>
+        <item>סוס</item>
+        <item>צָבוּעַ</item>
+        <item>אריה</item>
+        <item>קוף</item>
+        <item>יתוש</item>
+        <item>עכבר</item>
+        <item>ינשוף</item>
+        <item>תוכי</item>
+        <item>פינגווין</item>
+        <item>חזיר</item>
+        <item>יונה</item>
+        <item>גור</item>
+        <item>עכברוש</item>
+        <item>קַרנַף</item>
+        <item>תרנגול</item>
+        <item>שַׁחַף</item>
+        <item>חותם</item>
+        <item>כבשים</item>
+        <item>נחש</item>
+        <item>טורקיה</item>
+        <item>סוּס יָם</item>
+        <item>לִויָתָן</item>
+        <item>זאב</item>
+    </string-array>
+
+</resources>
+

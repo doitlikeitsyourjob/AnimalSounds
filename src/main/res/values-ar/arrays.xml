@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="soundtext">
+        <item>صياح</item>
+        <item>تذمر</item>
+        <item>طنين</item>
+        <item>سقسقة سقسقة</item>
+        <item>تذمر</item>
+        <item>مونش مونش</item>
+        <item>الناخر</item>
+        <item>مواء</item>
+        <item>اقضم بصوت عالي كومب</item>
+        <item>زقزقة زقزقة</item>
+        <item>قرقرة الدجاج قرقرة الدجاج</item>
+        <item>خوار</item>
+        <item>صرير صرير</item>
+        <item>كاو كاو</item>
+        <item>ثغاء</item>
+        <item>هدير</item>
+        <item>اللحمة اللحمة</item>
+        <item>انقر فوق انقر</item>
+        <item>الزعرورة ها</item>
+        <item>الدجال الدجال</item>
+        <item>بوق</item>
+        <item>طنين</item>
+        <item>ثرثرة</item>
+        <item>تشاءم</item>
+        <item>ثغاء</item>
+        <item>ثغاء</item>
+        <item>صرير</item>
+        <item>تذمر</item>
+        <item>نعيق</item>
+        <item>صهيل</item>
+        <item>ضحكة مكتومة</item>
+        <item>هدير</item>
+        <item>أوه آه آه</item>
+        <item>همهمة</item>
+        <item>صرير صرير</item>
+        <item>صاح صاح</item>
+        <item>محادثات</item>
+        <item>نهيق</item>
+        <item>تذمر</item>
+        <item>سجع سجع</item>
+        <item>عواء</item>
+        <item>صرير</item>
+        <item>رفع الصوت عاليا</item>
+        <item>الديك واحد في خربش دو</item>
+        <item>جعجع</item>
+        <item>دعوة</item>
+        <item>ايه ايه</item>
+        <item>همسة</item>
+        <item>الكركرة</item>
+        <item>أنين</item>
+        <item>غنى</item>
+        <item>عواء</item>
+    </string-array>
+
+
+    <string-array name="animaltext">
+        <item>مضرب</item>
+        <item>الدب</item>
+        <item>نحلة</item>
+        <item>عصفور</item>
+        <item>ثور</item>
+        <item>أرنب</item>
+        <item>جمل</item>
+        <item>قط</item>
+        <item>تراكتور</item>
+        <item>كتكوت</item>
+        <item>دجاج</item>
+        <item>بقرة</item>
+        <item>كريكيت</item>
+        <item>غراب</item>
+        <item>أيل</item>
+        <item>ديناصور</item>
+        <item>الكلب</item>
+        <item>دلفين</item>
+        <item>حمار</item>
+        <item>بط</item>
+        <item>فيل</item>
+        <item>طيران</item>
+        <item>ثعلب</item>
+        <item>ضفدع</item>
+        <item>زرافة</item>
+        <item>ماعز</item>
+        <item>خنزير البحر الهندي</item>
+        <item>فرس النهر</item>
+        <item>الهدهد</item>
+        <item>حصان</item>
+        <item>ضبع</item>
+        <item>الأسد</item>
+        <item>قرد</item>
+        <item>بعوض</item>
+        <item>فأر</item>
+        <item>بومة</item>
+        <item>ببغاء</item>
+        <item>البطريق طائر</item>
+        <item>خنزير</item>
+        <item>حمامة</item>
+        <item>جرو</item>
+        <item>فأر</item>
+        <item>أنف</item>
+        <item>ديك</item>
+        <item>نورس طائر مائي</item>
+        <item>ختم</item>
+        <item>خروف</item>
+        <item>ثعبان</item>
+        <item>تركيا</item>
+        <item>حصان البحر</item>
+        <item>الحوت</item>
+        <item>الذئب</item>
+    </string-array>
+
+</resources>
+
